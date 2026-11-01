@@ -1,0 +1,27 @@
+version: 2 
+sources: 
+  - name: stripe
+    description: Raw Stripe billing, subscription, invoice, and dispute event data loaded into Snowflake.
+    database: my_flake
+    schema: PUBLIC
+    tables: 
+      - name: customers
+        description: Raw Stripe customer records and metadata.
+      
+      - name: subscriptions
+        description: Raw Stripe subscriptions tracking active, trialing, and canceled states.
+
+      - name: invoices 
+        description: Raw Stripe invoices detailing totals, sub-totals, and billing period dates.
+
+      - name: invoice_line_items
+        description: Raw line items breaking down plan items, proration adjustments, and discounts.
+
+      - name: charges
+        description: Raw payment charge transactions and statuses.
+      
+      - name: disputes
+        description: Raw chargeback and fraud dispute lifecycle records.
+      
+      - name: events 
+        description: Raw webhook event logs including simulated retry duplicates.
