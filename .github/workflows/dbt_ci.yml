@@ -46,5 +46,8 @@ jobs:
       - name: Run dbt debug
         run: dbt debug --target dev
 
+      - name: Install dbt dependencies
+        run: dbt deps --profiles-dir .dbt
+
       - name: Run dbt compile
-        run: dbt compile
+        run: dbt compile --profiles-dir .dbt
