@@ -1,0 +1,75 @@
+version: 2
+
+models:
+  - name: stg_stripe__customers
+    description: Cleaned staging model for Stripe B2B SaaS customers.
+    columns:
+      - name: customer_id
+        description: Unique identifier for the customer.
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_stripe__subscriptions
+    description: Cleaned staging model for customer subscriptions and status tracking.
+    columns:
+      - name: subscription_id
+        description: Unique identifier for the subscription.
+        tests:
+          - unique
+          - not_null
+      - name: status
+        description: Current status of the subscription.
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['active', 'canceled', 'trialing', 'past_due']
+
+  - name: stg_stripe__invoices
+    description: Cleaned staging model for subscription billing invoices.
+    columns:
+      - name: invoice_id
+        description: Unique identifier for the invoice.
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_stripe__invoices_line_items
+    description: Cleaned staging model breaking down invoice line items, proration, and discounts.
+    columns:
+      - name: line_item_id
+        description: Unique identifier for the invoice line item.
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_stripe__charges
+    description: Cleaned staging model for payment charge transactions.
+    columns:
+      - name: charge_id
+        description: Unique identifier for the payment charge.
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_stripe__disputes
+    description: Cleaned staging model for chargebacks and fraud dispute records.
+    columns:
+      - name: dispute_id
+        description: Unique identifier for the dispute.
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_stripe__events
+    description: Cleaned staging model for Stripe webhook event logs.
+    columns:
+      - name: event_id
+        description: Unique identifier for the webhook event.
+        tests:
+          - unique
+          - not_null
+      - name: event_type
+        description: The type of Stripe event triggered.
+        tests:
+          - not_null

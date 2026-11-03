@@ -18,7 +18,7 @@ clean-targets:
 
 models:
   b2b_saas_pipeline:
-    stg:
+    staging:
       +materialized: view
       +schema: stg
     intermediate:
