@@ -1,5 +1,9 @@
+import os
 import random
 from datetime import datetime, timedelta
+import pandas as pd
+import snowflake.connector
+from snowflake.connector.pandas_tools import write_pandas
 
 PLANS = {
     "price_starter_monthly": {"name": "Starter Plan", "amount": 4900, "interval": "month"},
@@ -13,7 +17,7 @@ COUPONS = {
 }
 
 def generate_production_stripe_mock_data(start_date=datetime(2023, 1, 1), end_date=datetime(2026, 10, 31)):
-    print(f"🚀 Initializing Optimized Enterprise Stripe Mock Data Generator...")
+    print(f"🚀 Initializing Optimized Enterprise Stripe Mock Data Generator (with Proration & Events)...")
     
     customers = []
     subscriptions = []
@@ -44,10 +48,16 @@ def generate_production_stripe_mock_data(start_date=datetime(2023, 1, 1), end_da
             "delinquent": random.choice([True, False, False, False, False]),
         })
 
-    # Index active subscriptions by customer ID for O(1) fast lookup
+        events.append({
+            "id": f"evt_{random.randint(100000, 999999)}",
+            "object": "event",
+            "type": "customer.created",
+            "created": int(created_dt.timestamp()),
+            "customer": cust_id
+        })
+
     customer_active_subs = {c["id"]: [] for c in customers}
     current_time = start_date
-    event_counter = 100000
 
     # 2. Optimized Daily Loop
     while current_time <= end_date:
@@ -58,7 +68,7 @@ def generate_production_stripe_mock_data(start_date=datetime(2023, 1, 1), end_da
             
             active_subs = customer_active_subs[cust_id]
             
-            # Scenario A: Subscribe or add multi-sub
+            # Scenario A: Subscribe
             if len(active_subs) < 2 and random.random() < 0.08:
                 sub_id = f"sub_{random.randint(100000, 999999)}"
                 plan_key = random.choice(list(PLANS.keys()))
@@ -82,6 +92,14 @@ def generate_production_stripe_mock_data(start_date=datetime(2023, 1, 1), end_da
                 }
                 subscriptions.append(sub_obj)
                 active_subs.append(sub_obj)
+
+                events.append({
+                    "id": f"evt_{random.randint(100000, 999999)}",
+                    "object": "event",
+                    "type": "customer.subscription.created",
+                    "created": int(sub_start.timestamp()),
+                    "customer": cust_id
+                })
                 
                 # Invoice & Charge
                 discount_amount = 0
@@ -139,6 +157,14 @@ def generate_production_stripe_mock_data(start_date=datetime(2023, 1, 1), end_da
                     "created": int(sub_start.timestamp())
                 })
 
+                events.append({
+                    "id": f"evt_{random.randint(100000, 999999)}",
+                    "object": "event",
+                    "type": "invoice.payment_succeeded",
+                    "created": int(sub_start.timestamp()),
+                    "customer": cust_id
+                })
+
                 if is_disputed:
                     disputes.append({
                         "id": f"dp_{random.randint(10000, 99999)}",
@@ -149,22 +175,119 @@ def generate_production_stripe_mock_data(start_date=datetime(2023, 1, 1), end_da
                         "created": int(sub_start.timestamp()) + 259200
                     })
 
-            # Scenario B: Churn active subscription
+            # Scenario B: Plan Upgrade/Downgrade ( generando Proration )
+            elif active_subs and random.random() < 0.03:
+                sub = active_subs[0]
+                old_amount = sub["unit_amount"]
+                new_plan_key = random.choice([k for k in PLANS.keys() if PLANS[k]["amount"] != old_amount])
+                new_plan = PLANS[new_plan_key]
+                
+                sub["price_id"] = new_plan_key
+                sub["plan_nickname"] = new_plan["name"]
+                sub["unit_amount"] = new_plan["amount"]
+
+                # Proration calculation item
+                proration_amount = new_plan["amount"] - old_amount
+                inv_id = f"in_{random.randint(100000, 999999)}"
+                
+                invoices.append({
+                    "id": inv_id,
+                    "object": "invoice",
+                    "customer": cust_id,
+                    "subscription": sub["id"],
+                    "status": "paid",
+                    "subtotal": proration_amount,
+                    "discount": 0,
+                    "total": proration_amount,
+                    "amount_paid": proration_amount,
+                    "currency": "usd",
+                    "created": int(current_time.timestamp()),
+                    "period_start": int(current_time.timestamp()),
+                    "period_end": sub["current_period_end"]
+                })
+
+                invoice_line_items.append({
+                    "id": f"ili_{random.randint(100000, 999999)}",
+                    "invoice": inv_id,
+                    "amount": proration_amount,
+                    "description": f"Proration (upgrade/downgrade) to {new_plan['name']}",
+                    "type": "invoiceitem"
+                })
+
+                events.append({
+                    "id": f"evt_{random.randint(100000, 999999)}",
+                    "object": "event",
+                    "type": "customer.subscription.updated",
+                    "created": int(current_time.timestamp()),
+                    "customer": cust_id
+                })
+
+            # Scenario C: Churn active subscription
             elif active_subs and random.random() < 0.04:
                 sub_to_churn = active_subs.pop(0)
                 sub_to_churn["status"] = "canceled"
 
+                events.append({
+                    "id": f"evt_{random.randint(100000, 999999)}",
+                    "object": "event",
+                    "type": "customer.subscription.deleted",
+                    "created": int(current_time.timestamp()),
+                    "customer": cust_id
+                })
+
         current_time += timedelta(days=1)
 
-    print(f"✅ Generated Dataset Successfully in a fraction of a second!")
+    print(f"✅ Generated Dataset Successfully!")
     print(f"   - Customers: {len(customers)}")
-    print(f"   - Total Subscriptions: {len(subscriptions)}")
-    print(f"   - Active Subscriptions: {len([s for s in subscriptions if s['status'] == 'active'])}")
-    print(f"   - Canceled Subscriptions: {len([s for s in subscriptions if s['status'] == 'canceled'])}")
+    print(f"   - Subscriptions: {len(subscriptions)}")
     print(f"   - Invoices: {len(invoices)}")
+    print(f"   - Line Items (incl. Proration & Discounts): {len(invoice_line_items)}")
     print(f"   - Charges: {len(charges)}")
-    
+    print(f"   - Disputes: {len(disputes)}")
+    print(f"   - Events: {len(events)}")
+
     return customers, subscriptions, invoices, invoice_line_items, charges, disputes, events
 
+def load_to_snowflake():
+    customers, subscriptions, invoices, invoice_line_items, charges, disputes, events = generate_production_stripe_mock_data()
+
+    conn = snowflake.connector.connect(
+        account=os.getenv("SNOWFLAKE_ACCOUNT", "GMYFHUL-ZS40079"),
+        user=os.getenv("SNOWFLAKE_USER", "ZIHAD034"),
+        password=os.getenv("SNOWFLAKE_PASSWORD", "Tiyapakhi234zbm"),
+        role=os.getenv("SNOWFLAKE_ROLE", "ACCOUNTADMIN"),
+        warehouse=os.getenv("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH"),
+        database=os.getenv("SNOWFLAKE_DATABASE", "my_flake"),
+        schema=os.getenv("SNOWFLAKE_SCHEMA", "PUBLIC")
+    )
+
+    datasets = {
+        "CUSTOMERS": pd.DataFrame(customers),
+        "SUBSCRIPTIONS": pd.DataFrame(subscriptions),
+        "INVOICES": pd.DataFrame(invoices),
+        "INVOICE_LINE_ITEMS": pd.DataFrame(invoice_line_items),
+        "CHARGES": pd.DataFrame(charges),
+        "DISPUTES": pd.DataFrame(disputes),
+        "EVENTS": pd.DataFrame(events),
+    }
+
+    print("🔌 Connecting to Snowflake and Overwriting Tables...")
+    for table_name, df in datasets.items():
+        print(f"loading {len(df)} rows into Snowflake table: {table_name} (Overwrite)...")
+        success, nchunks, nrows, _ = write_pandas(
+            conn=conn,
+            df=df,
+            table_name=table_name,
+            auto_create_table=True,
+            overwrite=True  # Ensures clean replacement every time
+        )
+        if success:
+            print(f"   Successfully loaded {nrows} rows into {table_name}")
+        else:
+            print(f"❌ Failed on table {table_name}.")
+
+    conn.close()
+    print("🔒 Snowflake connection closed successfully.")
+
 if __name__ == "__main__":
-    generate_production_stripe_mock_data()
+    load_to_snowflake()

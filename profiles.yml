@@ -11,21 +11,4 @@ b2b_saas_pipeline:
       user: ZIHAD034
       warehouse: COMPUTE_WH
   target: dev
-my_mrr_db_pipeline:
-  outputs:
-    dev:
-      path: dev.duckdb
-      threads: 4
-      type: duckdb
-  target: dev
-practice_mrr:
-  outputs:
-    dev:
-      path: dev.duckdb
-      threads: 1
-      type: duckdb
-    prod:
-      path: prod.duckdb
-      threads: 4
-      type: duckdb
-  target: dev
+
