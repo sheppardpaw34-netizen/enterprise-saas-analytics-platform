@@ -1,0 +1,22 @@
+[
+  {
+    "owner_id": "hub_own_001",
+    "owner_name": "Sarah Connor",
+    "team": "Inbound SDR"
+  },
+  {
+    "owner_id": "hub_own_002",
+    "owner_name": "Marcus Wright",
+    "team": "Outbound AE"
+  },
+  {
+    "owner_id": "hub_own_003",
+    "owner_name": "Kyle Reese",
+    "team": "Enterprise AE"
+  },
+  {
+    "owner_id": "hub_own_004",
+    "owner_name": "Ellen Ripley",
+    "team": "CSM"
+  }
+]

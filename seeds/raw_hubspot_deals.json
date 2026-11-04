@@ -1,0 +1,5002 @@
+[
+  {
+    "deal_id": "hub_deal_00001",
+    "company_id": "hub_comp_00001",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 1 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-08-10 00:00:00",
+    "closed_at": "2026-09-10 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00002",
+    "company_id": "hub_comp_00002",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 2 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2025-07-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00003",
+    "company_id": "hub_comp_00003",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 3 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-07-22 00:00:00",
+    "closed_at": "2023-08-08 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00004",
+    "company_id": "hub_comp_00004",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 4 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2023-04-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00005",
+    "company_id": "hub_comp_00005",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 5 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2026-01-01 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00006",
+    "company_id": "hub_comp_00006",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 6 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2024-10-22 00:00:00",
+    "closed_at": "2024-11-05 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00007",
+    "company_id": "hub_comp_00007",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 7 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2023-10-17 00:00:00",
+    "closed_at": "2023-11-15 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00008",
+    "company_id": "hub_comp_00008",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 8 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2025-12-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00009",
+    "company_id": "hub_comp_00009",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 9 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2023-12-02 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00010",
+    "company_id": "hub_comp_00010",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 10 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2023-09-06 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00011",
+    "company_id": "hub_comp_00011",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 11 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-09-16 00:00:00",
+    "closed_at": "2025-10-06 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00012",
+    "company_id": "hub_comp_00012",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 12 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-05-18 00:00:00",
+    "closed_at": "2023-06-28 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00013",
+    "company_id": "hub_comp_00013",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 13 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-05-15 00:00:00",
+    "closed_at": "2024-05-23 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00014",
+    "company_id": "hub_comp_00014",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 14 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-12-04 00:00:00",
+    "closed_at": "2025-01-06 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00015",
+    "company_id": "hub_comp_00015",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 15 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2023-05-01 00:00:00",
+    "closed_at": "2023-05-31 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00016",
+    "company_id": "hub_comp_00016",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 16 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2023-12-15 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00017",
+    "company_id": "hub_comp_00017",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 17 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-04-19 00:00:00",
+    "closed_at": "2026-04-27 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00018",
+    "company_id": "hub_comp_00018",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 18 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-01-19 00:00:00",
+    "closed_at": "2024-01-29 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00019",
+    "company_id": "hub_comp_00019",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 19 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2026-04-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00020",
+    "company_id": "hub_comp_00020",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 20 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2026-07-09 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00021",
+    "company_id": "hub_comp_00021",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 21 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2025-06-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00022",
+    "company_id": "hub_comp_00022",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 22 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-12-22 00:00:00",
+    "closed_at": "2025-01-03 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00023",
+    "company_id": "hub_comp_00023",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 23 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2023-11-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00024",
+    "company_id": "hub_comp_00024",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 24 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2026-07-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00025",
+    "company_id": "hub_comp_00025",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 25 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2024-07-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00026",
+    "company_id": "hub_comp_00026",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 26 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-06-10 00:00:00",
+    "closed_at": "2023-07-09 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00027",
+    "company_id": "hub_comp_00027",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 27 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2024-06-09 00:00:00",
+    "closed_at": "2024-07-23 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00028",
+    "company_id": "hub_comp_00028",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 28 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2023-09-28 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00029",
+    "company_id": "hub_comp_00029",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 29 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2025-08-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00030",
+    "company_id": "hub_comp_00030",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 30 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2024-05-30 00:00:00",
+    "closed_at": "2024-06-13 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00031",
+    "company_id": "hub_comp_00031",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 31 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2023-08-12 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00032",
+    "company_id": "hub_comp_00032",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 32 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-08-18 00:00:00",
+    "closed_at": "2025-09-20 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00033",
+    "company_id": "hub_comp_00033",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 33 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2024-08-20 00:00:00",
+    "closed_at": "2024-09-23 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00034",
+    "company_id": "hub_comp_00034",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 34 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2023-05-23 00:00:00",
+    "closed_at": "2023-07-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00035",
+    "company_id": "hub_comp_00035",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 35 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2025-10-16 00:00:00",
+    "closed_at": "2025-10-22 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00036",
+    "company_id": "hub_comp_00036",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 36 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2026-08-13 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00037",
+    "company_id": "hub_comp_00037",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 37 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2026-01-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00038",
+    "company_id": "hub_comp_00038",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 38 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-05-17 00:00:00",
+    "closed_at": "2024-06-03 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00039",
+    "company_id": "hub_comp_00039",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 39 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-04-30 00:00:00",
+    "closed_at": "2026-06-08 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00040",
+    "company_id": "hub_comp_00040",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 40 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-02-14 00:00:00",
+    "closed_at": "2025-03-18 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00041",
+    "company_id": "hub_comp_00041",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 41 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2024-10-30 00:00:00",
+    "closed_at": "2024-11-20 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00042",
+    "company_id": "hub_comp_00042",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 42 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2024-08-09 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00043",
+    "company_id": "hub_comp_00043",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 43 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2026-04-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00044",
+    "company_id": "hub_comp_00044",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 44 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2026-04-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00045",
+    "company_id": "hub_comp_00045",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 45 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2023-09-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00046",
+    "company_id": "hub_comp_00046",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 46 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-09-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00047",
+    "company_id": "hub_comp_00047",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 47 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2025-12-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00048",
+    "company_id": "hub_comp_00048",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 48 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2024-05-09 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00049",
+    "company_id": "hub_comp_00049",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 49 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2024-08-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00050",
+    "company_id": "hub_comp_00050",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 50 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2026-09-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00051",
+    "company_id": "hub_comp_00051",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 51 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2024-09-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00052",
+    "company_id": "hub_comp_00052",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 52 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-07-22 00:00:00",
+    "closed_at": "2024-08-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00053",
+    "company_id": "hub_comp_00053",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 53 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-05-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00054",
+    "company_id": "hub_comp_00054",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 54 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2023-04-27 00:00:00",
+    "closed_at": "2023-06-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00055",
+    "company_id": "hub_comp_00055",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 55 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2023-11-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00056",
+    "company_id": "hub_comp_00056",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 56 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-11-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00057",
+    "company_id": "hub_comp_00057",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 57 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-11-21 00:00:00",
+    "closed_at": "2025-12-08 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00058",
+    "company_id": "hub_comp_00058",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 58 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2026-03-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00059",
+    "company_id": "hub_comp_00059",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 59 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-08-08 00:00:00",
+    "closed_at": "2023-09-22 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00060",
+    "company_id": "hub_comp_00060",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 60 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2026-01-18 00:00:00",
+    "closed_at": "2026-02-20 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00061",
+    "company_id": "hub_comp_00061",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 61 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2024-09-09 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00062",
+    "company_id": "hub_comp_00062",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 62 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-06-30 00:00:00",
+    "closed_at": "2026-08-02 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00063",
+    "company_id": "hub_comp_00063",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 63 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2026-05-08 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00064",
+    "company_id": "hub_comp_00064",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 64 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2024-08-29 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00065",
+    "company_id": "hub_comp_00065",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 65 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2023-07-10 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00066",
+    "company_id": "hub_comp_00066",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 66 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2026-03-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00067",
+    "company_id": "hub_comp_00067",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 67 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2026-06-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00068",
+    "company_id": "hub_comp_00068",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 68 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2025-05-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00069",
+    "company_id": "hub_comp_00069",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 69 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-03-28 00:00:00",
+    "closed_at": "2025-04-23 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00070",
+    "company_id": "hub_comp_00070",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 70 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2023-09-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00071",
+    "company_id": "hub_comp_00071",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 71 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2024-07-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00072",
+    "company_id": "hub_comp_00072",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 72 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-01-22 00:00:00",
+    "closed_at": "2025-01-28 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00073",
+    "company_id": "hub_comp_00073",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 73 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-09-25 00:00:00",
+    "closed_at": "2025-10-29 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00074",
+    "company_id": "hub_comp_00074",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 74 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2023-08-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00075",
+    "company_id": "hub_comp_00075",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 75 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2023-06-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00076",
+    "company_id": "hub_comp_00076",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 76 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2023-09-13 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00077",
+    "company_id": "hub_comp_00077",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 77 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2025-05-30 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00078",
+    "company_id": "hub_comp_00078",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 78 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2025-02-13 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00079",
+    "company_id": "hub_comp_00079",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 79 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-05-29 00:00:00",
+    "closed_at": "2025-06-17 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00080",
+    "company_id": "hub_comp_00080",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 80 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2026-05-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00081",
+    "company_id": "hub_comp_00081",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 81 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2025-06-12 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00082",
+    "company_id": "hub_comp_00082",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 82 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2026-03-25 00:00:00",
+    "closed_at": "2026-04-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00083",
+    "company_id": "hub_comp_00083",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 83 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2025-12-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00084",
+    "company_id": "hub_comp_00084",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 84 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2024-06-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00085",
+    "company_id": "hub_comp_00085",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 85 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-09-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00086",
+    "company_id": "hub_comp_00086",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 86 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2026-04-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00087",
+    "company_id": "hub_comp_00087",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 87 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2023-03-26 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00088",
+    "company_id": "hub_comp_00088",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 88 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2026-02-22 00:00:00",
+    "closed_at": "2026-03-04 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00089",
+    "company_id": "hub_comp_00089",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 89 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2026-03-08 00:00:00",
+    "closed_at": "2026-03-14 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00090",
+    "company_id": "hub_comp_00090",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 90 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-09-27 00:00:00",
+    "closed_at": "2024-11-10 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00091",
+    "company_id": "hub_comp_00091",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 91 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2026-05-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00092",
+    "company_id": "hub_comp_00092",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 92 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2025-07-05 00:00:00",
+    "closed_at": "2025-08-17 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00093",
+    "company_id": "hub_comp_00093",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 93 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2024-06-11 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00094",
+    "company_id": "hub_comp_00094",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 94 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2025-07-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00095",
+    "company_id": "hub_comp_00095",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 95 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2024-08-19 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00096",
+    "company_id": "hub_comp_00096",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 96 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2023-05-13 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00097",
+    "company_id": "hub_comp_00097",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 97 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2025-03-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00098",
+    "company_id": "hub_comp_00098",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 98 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2026-07-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00099",
+    "company_id": "hub_comp_00099",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 99 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2024-10-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00100",
+    "company_id": "hub_comp_00100",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 100 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-02-02 00:00:00",
+    "closed_at": "2025-02-13 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00101",
+    "company_id": "hub_comp_00101",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 101 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2024-11-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00102",
+    "company_id": "hub_comp_00102",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 102 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2025-01-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00103",
+    "company_id": "hub_comp_00103",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 103 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2025-03-13 00:00:00",
+    "closed_at": "2025-04-22 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00104",
+    "company_id": "hub_comp_00104",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 104 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2024-06-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00105",
+    "company_id": "hub_comp_00105",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 105 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2025-07-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00106",
+    "company_id": "hub_comp_00106",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 106 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2026-02-23 00:00:00",
+    "closed_at": "2026-03-04 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00107",
+    "company_id": "hub_comp_00107",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 107 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2024-10-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00108",
+    "company_id": "hub_comp_00108",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 108 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2024-10-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00109",
+    "company_id": "hub_comp_00109",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 109 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2026-04-29 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00110",
+    "company_id": "hub_comp_00110",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 110 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2026-08-09 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00111",
+    "company_id": "hub_comp_00111",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 111 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-05-07 00:00:00",
+    "closed_at": "2025-06-13 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00112",
+    "company_id": "hub_comp_00112",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 112 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2024-10-30 00:00:00",
+    "closed_at": "2024-11-14 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00113",
+    "company_id": "hub_comp_00113",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 113 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2026-04-15 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00114",
+    "company_id": "hub_comp_00114",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 114 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-04-02 00:00:00",
+    "closed_at": "2025-05-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00115",
+    "company_id": "hub_comp_00115",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 115 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2023-08-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00116",
+    "company_id": "hub_comp_00116",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 116 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2026-02-06 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00117",
+    "company_id": "hub_comp_00117",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 117 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2025-12-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00118",
+    "company_id": "hub_comp_00118",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 118 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2024-11-29 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00119",
+    "company_id": "hub_comp_00119",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 119 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2025-12-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00120",
+    "company_id": "hub_comp_00120",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 120 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2023-05-16 00:00:00",
+    "closed_at": "2023-06-07 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00121",
+    "company_id": "hub_comp_00121",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 121 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2024-04-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00122",
+    "company_id": "hub_comp_00122",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 122 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2023-06-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00123",
+    "company_id": "hub_comp_00123",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 123 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2024-11-24 00:00:00",
+    "closed_at": "2024-12-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00124",
+    "company_id": "hub_comp_00124",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 124 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-10-26 00:00:00",
+    "closed_at": "2024-11-25 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00125",
+    "company_id": "hub_comp_00125",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 125 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2024-02-05 00:00:00",
+    "closed_at": "2024-03-12 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00126",
+    "company_id": "hub_comp_00126",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 126 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2025-11-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00127",
+    "company_id": "hub_comp_00127",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 127 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2024-08-31 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00128",
+    "company_id": "hub_comp_00128",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 128 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-01-16 00:00:00",
+    "closed_at": "2024-02-13 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00129",
+    "company_id": "hub_comp_00129",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 129 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2023-05-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00130",
+    "company_id": "hub_comp_00130",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 130 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-08-05 00:00:00",
+    "closed_at": "2025-09-02 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00131",
+    "company_id": "hub_comp_00131",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 131 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2026-03-19 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00132",
+    "company_id": "hub_comp_00132",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 132 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2026-03-13 00:00:00",
+    "closed_at": "2026-04-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00133",
+    "company_id": "hub_comp_00133",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 133 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-05-28 00:00:00",
+    "closed_at": "2023-06-09 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00134",
+    "company_id": "hub_comp_00134",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 134 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2026-01-24 00:00:00",
+    "closed_at": "2026-03-04 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00135",
+    "company_id": "hub_comp_00135",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 135 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2024-04-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00136",
+    "company_id": "hub_comp_00136",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 136 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2025-07-09 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00137",
+    "company_id": "hub_comp_00137",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 137 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2024-05-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00138",
+    "company_id": "hub_comp_00138",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 138 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2026-07-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00139",
+    "company_id": "hub_comp_00139",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 139 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2025-05-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00140",
+    "company_id": "hub_comp_00140",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 140 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2023-04-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00141",
+    "company_id": "hub_comp_00141",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 141 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2024-05-19 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00142",
+    "company_id": "hub_comp_00142",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 142 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-05-12 00:00:00",
+    "closed_at": "2025-05-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00143",
+    "company_id": "hub_comp_00143",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 143 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2024-11-13 00:00:00",
+    "closed_at": "2024-11-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00144",
+    "company_id": "hub_comp_00144",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 144 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2023-06-10 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00145",
+    "company_id": "hub_comp_00145",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 145 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2025-02-10 00:00:00",
+    "closed_at": "2025-02-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00146",
+    "company_id": "hub_comp_00146",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 146 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2024-05-22 00:00:00",
+    "closed_at": "2024-07-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00147",
+    "company_id": "hub_comp_00147",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 147 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-04-29 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00148",
+    "company_id": "hub_comp_00148",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 148 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2024-01-10 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00149",
+    "company_id": "hub_comp_00149",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 149 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2026-03-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00150",
+    "company_id": "hub_comp_00150",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 150 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2024-11-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00151",
+    "company_id": "hub_comp_00151",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 151 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2023-11-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00152",
+    "company_id": "hub_comp_00152",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 152 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2026-02-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00153",
+    "company_id": "hub_comp_00153",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 153 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2023-11-11 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00154",
+    "company_id": "hub_comp_00154",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 154 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2024-09-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00155",
+    "company_id": "hub_comp_00155",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 155 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2025-09-28 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00156",
+    "company_id": "hub_comp_00156",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 156 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2026-02-17 00:00:00",
+    "closed_at": "2026-03-19 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00157",
+    "company_id": "hub_comp_00157",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 157 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2026-01-23 00:00:00",
+    "closed_at": "2026-02-03 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00158",
+    "company_id": "hub_comp_00158",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 158 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-04-03 00:00:00",
+    "closed_at": "2024-04-17 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00159",
+    "company_id": "hub_comp_00159",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 159 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2024-10-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00160",
+    "company_id": "hub_comp_00160",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 160 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2023-09-07 00:00:00",
+    "closed_at": "2023-10-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00161",
+    "company_id": "hub_comp_00161",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 161 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2025-07-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00162",
+    "company_id": "hub_comp_00162",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 162 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2025-10-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00163",
+    "company_id": "hub_comp_00163",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 163 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2023-11-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00164",
+    "company_id": "hub_comp_00164",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 164 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2024-01-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00165",
+    "company_id": "hub_comp_00165",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 165 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-04-09 00:00:00",
+    "closed_at": "2024-04-16 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00166",
+    "company_id": "hub_comp_00166",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 166 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2026-02-02 00:00:00",
+    "closed_at": "2026-02-12 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00167",
+    "company_id": "hub_comp_00167",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 167 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2023-09-09 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00168",
+    "company_id": "hub_comp_00168",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 168 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2025-11-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00169",
+    "company_id": "hub_comp_00169",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 169 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2024-11-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00170",
+    "company_id": "hub_comp_00170",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 170 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2024-11-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00171",
+    "company_id": "hub_comp_00171",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 171 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2023-04-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00172",
+    "company_id": "hub_comp_00172",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 172 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2026-08-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00173",
+    "company_id": "hub_comp_00173",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 173 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2025-12-03 00:00:00",
+    "closed_at": "2026-01-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00174",
+    "company_id": "hub_comp_00174",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 174 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2023-08-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00175",
+    "company_id": "hub_comp_00175",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 175 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2024-03-24 00:00:00",
+    "closed_at": "2024-04-13 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00176",
+    "company_id": "hub_comp_00176",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 176 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2026-08-18 00:00:00",
+    "closed_at": "2026-09-23 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00177",
+    "company_id": "hub_comp_00177",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 177 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-12-21 00:00:00",
+    "closed_at": "2026-01-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00178",
+    "company_id": "hub_comp_00178",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 178 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-04-04 00:00:00",
+    "closed_at": "2023-05-16 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00179",
+    "company_id": "hub_comp_00179",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 179 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2024-10-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00180",
+    "company_id": "hub_comp_00180",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 180 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2025-12-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00181",
+    "company_id": "hub_comp_00181",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 181 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2024-06-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00182",
+    "company_id": "hub_comp_00182",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 182 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-04-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00183",
+    "company_id": "hub_comp_00183",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 183 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-11-05 00:00:00",
+    "closed_at": "2025-11-30 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00184",
+    "company_id": "hub_comp_00184",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 184 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2026-02-12 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00185",
+    "company_id": "hub_comp_00185",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 185 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2023-03-08 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00186",
+    "company_id": "hub_comp_00186",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 186 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-10-24 00:00:00",
+    "closed_at": "2025-11-25 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00187",
+    "company_id": "hub_comp_00187",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 187 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2024-05-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00188",
+    "company_id": "hub_comp_00188",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 188 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2025-07-12 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00189",
+    "company_id": "hub_comp_00189",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 189 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-11-09 00:00:00",
+    "closed_at": "2023-12-13 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00190",
+    "company_id": "hub_comp_00190",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 190 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2023-10-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00191",
+    "company_id": "hub_comp_00191",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 191 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2023-06-06 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00192",
+    "company_id": "hub_comp_00192",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 192 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2023-12-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00193",
+    "company_id": "hub_comp_00193",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 193 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-02-10 00:00:00",
+    "closed_at": "2026-02-16 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00194",
+    "company_id": "hub_comp_00194",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 194 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2025-01-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00195",
+    "company_id": "hub_comp_00195",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 195 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-04-25 00:00:00",
+    "closed_at": "2026-05-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00196",
+    "company_id": "hub_comp_00196",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 196 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-05-08 00:00:00",
+    "closed_at": "2024-06-15 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00197",
+    "company_id": "hub_comp_00197",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 197 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2023-01-08 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00198",
+    "company_id": "hub_comp_00198",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 198 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2023-08-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00199",
+    "company_id": "hub_comp_00199",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 199 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-12-03 00:00:00",
+    "closed_at": "2023-12-10 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00200",
+    "company_id": "hub_comp_00200",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 200 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2026-05-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00201",
+    "company_id": "hub_comp_00201",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 201 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2024-10-23 00:00:00",
+    "closed_at": "2024-11-28 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00202",
+    "company_id": "hub_comp_00202",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 202 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-12-24 00:00:00",
+    "closed_at": "2025-01-16 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00203",
+    "company_id": "hub_comp_00203",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 203 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2024-10-26 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00204",
+    "company_id": "hub_comp_00204",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 204 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-03-24 00:00:00",
+    "closed_at": "2023-04-07 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00205",
+    "company_id": "hub_comp_00205",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 205 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2025-01-10 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00206",
+    "company_id": "hub_comp_00206",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 206 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2026-08-13 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00207",
+    "company_id": "hub_comp_00207",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 207 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2024-02-06 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00208",
+    "company_id": "hub_comp_00208",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 208 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2026-02-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00209",
+    "company_id": "hub_comp_00209",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 209 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2024-03-19 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00210",
+    "company_id": "hub_comp_00210",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 210 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2023-07-04 00:00:00",
+    "closed_at": "2023-08-14 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00211",
+    "company_id": "hub_comp_00211",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 211 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2023-08-19 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00212",
+    "company_id": "hub_comp_00212",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 212 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2023-04-02 00:00:00",
+    "closed_at": "2023-05-03 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00213",
+    "company_id": "hub_comp_00213",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 213 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2024-02-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00214",
+    "company_id": "hub_comp_00214",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 214 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2024-01-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00215",
+    "company_id": "hub_comp_00215",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 215 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-08-07 00:00:00",
+    "closed_at": "2026-08-22 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00216",
+    "company_id": "hub_comp_00216",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 216 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2023-07-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00217",
+    "company_id": "hub_comp_00217",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 217 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2026-08-31 00:00:00",
+    "closed_at": "2026-09-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00218",
+    "company_id": "hub_comp_00218",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 218 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2025-08-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00219",
+    "company_id": "hub_comp_00219",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 219 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2026-09-02 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00220",
+    "company_id": "hub_comp_00220",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 220 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2024-09-10 00:00:00",
+    "closed_at": "2024-10-04 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00221",
+    "company_id": "hub_comp_00221",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 221 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2026-02-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00222",
+    "company_id": "hub_comp_00222",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 222 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-04-22 00:00:00",
+    "closed_at": "2024-05-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00223",
+    "company_id": "hub_comp_00223",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 223 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2024-02-15 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00224",
+    "company_id": "hub_comp_00224",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 224 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2025-07-29 00:00:00",
+    "closed_at": "2025-08-30 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00225",
+    "company_id": "hub_comp_00225",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 225 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-03-16 00:00:00",
+    "closed_at": "2025-03-31 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00226",
+    "company_id": "hub_comp_00226",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 226 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2023-04-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00227",
+    "company_id": "hub_comp_00227",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 227 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2024-04-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00228",
+    "company_id": "hub_comp_00228",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 228 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2026-05-06 00:00:00",
+    "closed_at": "2026-05-28 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00229",
+    "company_id": "hub_comp_00229",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 229 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2025-05-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00230",
+    "company_id": "hub_comp_00230",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 230 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-01-11 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00231",
+    "company_id": "hub_comp_00231",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 231 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2025-07-26 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00232",
+    "company_id": "hub_comp_00232",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 232 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2024-11-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00233",
+    "company_id": "hub_comp_00233",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 233 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2025-05-06 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00234",
+    "company_id": "hub_comp_00234",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 234 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-01-29 00:00:00",
+    "closed_at": "2023-02-13 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00235",
+    "company_id": "hub_comp_00235",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 235 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2025-10-28 00:00:00",
+    "closed_at": "2025-11-30 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00236",
+    "company_id": "hub_comp_00236",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 236 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2025-10-20 00:00:00",
+    "closed_at": "2025-11-29 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00237",
+    "company_id": "hub_comp_00237",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 237 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2023-07-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00238",
+    "company_id": "hub_comp_00238",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 238 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2024-04-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00239",
+    "company_id": "hub_comp_00239",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 239 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2026-06-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00240",
+    "company_id": "hub_comp_00240",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 240 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-07-23 00:00:00",
+    "closed_at": "2025-08-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00241",
+    "company_id": "hub_comp_00241",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 241 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-06-13 00:00:00",
+    "closed_at": "2026-07-28 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00242",
+    "company_id": "hub_comp_00242",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 242 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2024-03-06 00:00:00",
+    "closed_at": "2024-04-07 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00243",
+    "company_id": "hub_comp_00243",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 243 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2025-12-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00244",
+    "company_id": "hub_comp_00244",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 244 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2025-07-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00245",
+    "company_id": "hub_comp_00245",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 245 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2026-07-08 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00246",
+    "company_id": "hub_comp_00246",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 246 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2024-07-28 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00247",
+    "company_id": "hub_comp_00247",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 247 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2026-05-11 00:00:00",
+    "closed_at": "2026-05-30 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00248",
+    "company_id": "hub_comp_00248",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 248 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2024-11-26 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00249",
+    "company_id": "hub_comp_00249",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 249 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-04-10 00:00:00",
+    "closed_at": "2023-05-16 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00250",
+    "company_id": "hub_comp_00250",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 250 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2024-09-04 00:00:00",
+    "closed_at": "2024-10-13 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00251",
+    "company_id": "hub_comp_00251",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 251 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2026-08-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00252",
+    "company_id": "hub_comp_00252",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 252 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-03-27 00:00:00",
+    "closed_at": "2026-04-03 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00253",
+    "company_id": "hub_comp_00253",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 253 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-01-11 00:00:00",
+    "closed_at": "2025-02-10 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00254",
+    "company_id": "hub_comp_00254",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 254 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2026-08-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00255",
+    "company_id": "hub_comp_00255",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 255 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2026-09-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00256",
+    "company_id": "hub_comp_00256",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 256 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2026-08-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00257",
+    "company_id": "hub_comp_00257",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 257 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2025-09-28 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00258",
+    "company_id": "hub_comp_00258",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 258 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2025-08-09 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00259",
+    "company_id": "hub_comp_00259",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 259 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2025-11-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00260",
+    "company_id": "hub_comp_00260",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 260 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2025-04-08 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00261",
+    "company_id": "hub_comp_00261",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 261 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2026-03-08 00:00:00",
+    "closed_at": "2026-04-02 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00262",
+    "company_id": "hub_comp_00262",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 262 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2025-12-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00263",
+    "company_id": "hub_comp_00263",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 263 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2025-10-31 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00264",
+    "company_id": "hub_comp_00264",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 264 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-04-22 00:00:00",
+    "closed_at": "2024-05-07 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00265",
+    "company_id": "hub_comp_00265",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 265 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-01-22 00:00:00",
+    "closed_at": "2024-02-06 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00266",
+    "company_id": "hub_comp_00266",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 266 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-08-04 00:00:00",
+    "closed_at": "2025-08-18 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00267",
+    "company_id": "hub_comp_00267",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 267 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-01-12 00:00:00",
+    "closed_at": "2024-02-19 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00268",
+    "company_id": "hub_comp_00268",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 268 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-05-03 00:00:00",
+    "closed_at": "2024-05-24 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00269",
+    "company_id": "hub_comp_00269",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 269 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2023-01-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00270",
+    "company_id": "hub_comp_00270",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 270 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-05-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00271",
+    "company_id": "hub_comp_00271",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 271 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-08-09 00:00:00",
+    "closed_at": "2023-08-18 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00272",
+    "company_id": "hub_comp_00272",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 272 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2024-04-02 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00273",
+    "company_id": "hub_comp_00273",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 273 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-06-21 00:00:00",
+    "closed_at": "2026-06-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00274",
+    "company_id": "hub_comp_00274",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 274 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-07-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00275",
+    "company_id": "hub_comp_00275",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 275 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2023-09-01 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00276",
+    "company_id": "hub_comp_00276",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 276 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-04-22 00:00:00",
+    "closed_at": "2024-05-17 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00277",
+    "company_id": "hub_comp_00277",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 277 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2024-04-01 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00278",
+    "company_id": "hub_comp_00278",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 278 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2024-05-01 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00279",
+    "company_id": "hub_comp_00279",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 279 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-04-07 00:00:00",
+    "closed_at": "2025-04-23 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00280",
+    "company_id": "hub_comp_00280",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 280 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-09-14 00:00:00",
+    "closed_at": "2023-10-06 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00281",
+    "company_id": "hub_comp_00281",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 281 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2026-06-19 00:00:00",
+    "closed_at": "2026-07-05 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00282",
+    "company_id": "hub_comp_00282",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 282 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2026-03-31 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00283",
+    "company_id": "hub_comp_00283",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 283 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-01-23 00:00:00",
+    "closed_at": "2023-02-03 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00284",
+    "company_id": "hub_comp_00284",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 284 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2023-05-08 00:00:00",
+    "closed_at": "2023-06-20 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00285",
+    "company_id": "hub_comp_00285",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 285 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2026-03-31 00:00:00",
+    "closed_at": "2026-05-14 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00286",
+    "company_id": "hub_comp_00286",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 286 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2025-08-11 00:00:00",
+    "closed_at": "2025-08-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00287",
+    "company_id": "hub_comp_00287",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 287 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2024-04-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00288",
+    "company_id": "hub_comp_00288",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 288 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2023-12-26 00:00:00",
+    "closed_at": "2024-01-06 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00289",
+    "company_id": "hub_comp_00289",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 289 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-06-29 00:00:00",
+    "closed_at": "2026-08-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00290",
+    "company_id": "hub_comp_00290",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 290 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2026-01-19 00:00:00",
+    "closed_at": "2026-02-12 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00291",
+    "company_id": "hub_comp_00291",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 291 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-01-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00292",
+    "company_id": "hub_comp_00292",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 292 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-05-03 00:00:00",
+    "closed_at": "2025-06-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00293",
+    "company_id": "hub_comp_00293",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 293 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2025-05-05 00:00:00",
+    "closed_at": "2025-06-10 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00294",
+    "company_id": "hub_comp_00294",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 294 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2024-10-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00295",
+    "company_id": "hub_comp_00295",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 295 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2024-04-24 00:00:00",
+    "closed_at": "2024-05-04 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00296",
+    "company_id": "hub_comp_00296",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 296 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2023-05-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00297",
+    "company_id": "hub_comp_00297",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 297 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2024-06-01 00:00:00",
+    "closed_at": "2024-06-16 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00298",
+    "company_id": "hub_comp_00298",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 298 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2026-02-06 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00299",
+    "company_id": "hub_comp_00299",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 299 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2025-03-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00300",
+    "company_id": "hub_comp_00300",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 300 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-10-29 00:00:00",
+    "closed_at": "2025-12-08 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00301",
+    "company_id": "hub_comp_00301",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 301 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2025-07-03 00:00:00",
+    "closed_at": "2025-07-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00302",
+    "company_id": "hub_comp_00302",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 302 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2024-01-26 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00303",
+    "company_id": "hub_comp_00303",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 303 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2026-06-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00304",
+    "company_id": "hub_comp_00304",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 304 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2023-03-15 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00305",
+    "company_id": "hub_comp_00305",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 305 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2023-01-30 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00306",
+    "company_id": "hub_comp_00306",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 306 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2026-01-08 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00307",
+    "company_id": "hub_comp_00307",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 307 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2023-08-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00308",
+    "company_id": "hub_comp_00308",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 308 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2025-01-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00309",
+    "company_id": "hub_comp_00309",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 309 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-04-11 00:00:00",
+    "closed_at": "2025-05-22 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00310",
+    "company_id": "hub_comp_00310",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 310 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2023-07-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00311",
+    "company_id": "hub_comp_00311",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 311 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-12-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00312",
+    "company_id": "hub_comp_00312",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 312 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2025-06-26 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00313",
+    "company_id": "hub_comp_00313",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 313 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2026-01-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00314",
+    "company_id": "hub_comp_00314",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 314 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-12-07 00:00:00",
+    "closed_at": "2024-12-27 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00315",
+    "company_id": "hub_comp_00315",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 315 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-07-05 00:00:00",
+    "closed_at": "2024-07-12 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00316",
+    "company_id": "hub_comp_00316",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 316 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-02-19 00:00:00",
+    "closed_at": "2024-02-24 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00317",
+    "company_id": "hub_comp_00317",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 317 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2023-08-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00318",
+    "company_id": "hub_comp_00318",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 318 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2024-06-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00319",
+    "company_id": "hub_comp_00319",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 319 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-09-10 00:00:00",
+    "closed_at": "2024-09-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00320",
+    "company_id": "hub_comp_00320",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 320 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-11-01 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00321",
+    "company_id": "hub_comp_00321",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 321 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-02-19 00:00:00",
+    "closed_at": "2026-03-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00322",
+    "company_id": "hub_comp_00322",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 322 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2025-06-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00323",
+    "company_id": "hub_comp_00323",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 323 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2024-10-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00324",
+    "company_id": "hub_comp_00324",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 324 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-03-12 00:00:00",
+    "closed_at": "2023-03-28 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00325",
+    "company_id": "hub_comp_00325",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 325 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2025-10-12 00:00:00",
+    "closed_at": "2025-10-30 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00326",
+    "company_id": "hub_comp_00326",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 326 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-01-18 00:00:00",
+    "closed_at": "2024-02-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00327",
+    "company_id": "hub_comp_00327",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 327 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-12-05 00:00:00",
+    "closed_at": "2025-12-28 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00328",
+    "company_id": "hub_comp_00328",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 328 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2025-04-15 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00329",
+    "company_id": "hub_comp_00329",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 329 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-03-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00330",
+    "company_id": "hub_comp_00330",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 330 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2023-07-05 00:00:00",
+    "closed_at": "2023-08-07 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00331",
+    "company_id": "hub_comp_00331",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 331 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2026-07-23 00:00:00",
+    "closed_at": "2026-08-31 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00332",
+    "company_id": "hub_comp_00332",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 332 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-06-01 00:00:00",
+    "closed_at": "2026-07-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00333",
+    "company_id": "hub_comp_00333",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 333 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2026-06-26 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00334",
+    "company_id": "hub_comp_00334",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 334 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-11-29 00:00:00",
+    "closed_at": "2024-12-15 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00335",
+    "company_id": "hub_comp_00335",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 335 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-04-04 00:00:00",
+    "closed_at": "2026-05-09 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00336",
+    "company_id": "hub_comp_00336",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 336 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2023-09-18 00:00:00",
+    "closed_at": "2023-10-31 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00337",
+    "company_id": "hub_comp_00337",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 337 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2024-07-01 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00338",
+    "company_id": "hub_comp_00338",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 338 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2026-06-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00339",
+    "company_id": "hub_comp_00339",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 339 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2024-09-28 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00340",
+    "company_id": "hub_comp_00340",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 340 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2026-07-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00341",
+    "company_id": "hub_comp_00341",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 341 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2024-12-28 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00342",
+    "company_id": "hub_comp_00342",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 342 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2023-07-15 00:00:00",
+    "closed_at": "2023-08-19 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00343",
+    "company_id": "hub_comp_00343",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 343 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2024-02-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00344",
+    "company_id": "hub_comp_00344",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 344 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2024-11-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00345",
+    "company_id": "hub_comp_00345",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 345 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2024-02-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00346",
+    "company_id": "hub_comp_00346",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 346 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2023-12-30 00:00:00",
+    "closed_at": "2024-01-25 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00347",
+    "company_id": "hub_comp_00347",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 347 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2026-01-04 00:00:00",
+    "closed_at": "2026-01-29 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00348",
+    "company_id": "hub_comp_00348",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 348 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2025-10-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00349",
+    "company_id": "hub_comp_00349",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 349 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2024-09-25 00:00:00",
+    "closed_at": "2024-10-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00350",
+    "company_id": "hub_comp_00350",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 350 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-01-04 00:00:00",
+    "closed_at": "2024-02-09 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00351",
+    "company_id": "hub_comp_00351",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 351 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2023-07-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00352",
+    "company_id": "hub_comp_00352",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 352 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2026-04-28 00:00:00",
+    "closed_at": "2026-06-12 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00353",
+    "company_id": "hub_comp_00353",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 353 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2025-02-28 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00354",
+    "company_id": "hub_comp_00354",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 354 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2023-06-11 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00355",
+    "company_id": "hub_comp_00355",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 355 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2026-07-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00356",
+    "company_id": "hub_comp_00356",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 356 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2025-02-10 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00357",
+    "company_id": "hub_comp_00357",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 357 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2026-06-12 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00358",
+    "company_id": "hub_comp_00358",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 358 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2026-04-08 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00359",
+    "company_id": "hub_comp_00359",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 359 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2025-02-03 00:00:00",
+    "closed_at": "2025-03-16 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00360",
+    "company_id": "hub_comp_00360",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 360 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-05-01 00:00:00",
+    "closed_at": "2023-05-30 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00361",
+    "company_id": "hub_comp_00361",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 361 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2024-07-06 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00362",
+    "company_id": "hub_comp_00362",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 362 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-11-25 00:00:00",
+    "closed_at": "2024-12-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00363",
+    "company_id": "hub_comp_00363",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 363 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2024-10-11 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00364",
+    "company_id": "hub_comp_00364",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 364 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-09-10 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00365",
+    "company_id": "hub_comp_00365",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 365 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2025-08-18 00:00:00",
+    "closed_at": "2025-09-04 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00366",
+    "company_id": "hub_comp_00366",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 366 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2024-01-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00367",
+    "company_id": "hub_comp_00367",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 367 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2023-03-31 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00368",
+    "company_id": "hub_comp_00368",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 368 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-06-24 00:00:00",
+    "closed_at": "2025-07-28 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00369",
+    "company_id": "hub_comp_00369",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 369 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2026-08-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00370",
+    "company_id": "hub_comp_00370",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 370 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-10-04 00:00:00",
+    "closed_at": "2025-10-23 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00371",
+    "company_id": "hub_comp_00371",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 371 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2023-03-28 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00372",
+    "company_id": "hub_comp_00372",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 372 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-06-14 00:00:00",
+    "closed_at": "2026-07-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00373",
+    "company_id": "hub_comp_00373",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 373 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2024-11-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00374",
+    "company_id": "hub_comp_00374",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 374 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2023-10-19 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00375",
+    "company_id": "hub_comp_00375",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 375 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2026-08-30 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00376",
+    "company_id": "hub_comp_00376",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 376 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-10-28 00:00:00",
+    "closed_at": "2025-11-05 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00377",
+    "company_id": "hub_comp_00377",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 377 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2023-08-22 00:00:00",
+    "closed_at": "2023-08-30 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00378",
+    "company_id": "hub_comp_00378",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 378 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2023-12-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00379",
+    "company_id": "hub_comp_00379",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 379 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2025-09-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00380",
+    "company_id": "hub_comp_00380",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 380 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2025-08-02 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00381",
+    "company_id": "hub_comp_00381",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 381 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2026-04-08 00:00:00",
+    "closed_at": "2026-05-10 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00382",
+    "company_id": "hub_comp_00382",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 382 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-05-31 00:00:00",
+    "closed_at": "2024-07-10 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00383",
+    "company_id": "hub_comp_00383",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 383 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-04-28 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00384",
+    "company_id": "hub_comp_00384",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 384 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2025-04-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00385",
+    "company_id": "hub_comp_00385",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 385 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2023-04-30 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00386",
+    "company_id": "hub_comp_00386",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 386 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2026-03-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00387",
+    "company_id": "hub_comp_00387",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 387 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-07-12 00:00:00",
+    "closed_at": "2024-08-25 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00388",
+    "company_id": "hub_comp_00388",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 388 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2023-05-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00389",
+    "company_id": "hub_comp_00389",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 389 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2025-10-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00390",
+    "company_id": "hub_comp_00390",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 390 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2025-05-06 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00391",
+    "company_id": "hub_comp_00391",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 391 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-12-19 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00392",
+    "company_id": "hub_comp_00392",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 392 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2025-02-08 00:00:00",
+    "closed_at": "2025-03-05 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00393",
+    "company_id": "hub_comp_00393",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 393 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-01-14 00:00:00",
+    "closed_at": "2023-01-20 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00394",
+    "company_id": "hub_comp_00394",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 394 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2026-07-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00395",
+    "company_id": "hub_comp_00395",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 395 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2025-11-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00396",
+    "company_id": "hub_comp_00396",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 396 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2024-09-29 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00397",
+    "company_id": "hub_comp_00397",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 397 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-10-27 00:00:00",
+    "closed_at": "2023-11-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00398",
+    "company_id": "hub_comp_00398",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 398 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2026-08-12 00:00:00",
+    "closed_at": "2026-09-17 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00399",
+    "company_id": "hub_comp_00399",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 399 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2024-09-25 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00400",
+    "company_id": "hub_comp_00400",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 400 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-08-30 00:00:00",
+    "closed_at": "2026-10-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00401",
+    "company_id": "hub_comp_00401",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 401 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2026-07-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00402",
+    "company_id": "hub_comp_00402",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 402 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2023-04-15 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00403",
+    "company_id": "hub_comp_00403",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 403 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2023-11-06 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00404",
+    "company_id": "hub_comp_00404",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 404 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2023-09-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00405",
+    "company_id": "hub_comp_00405",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 405 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2024-04-26 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00406",
+    "company_id": "hub_comp_00406",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 406 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2024-02-09 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00407",
+    "company_id": "hub_comp_00407",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 407 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-07-30 00:00:00",
+    "closed_at": "2024-08-22 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00408",
+    "company_id": "hub_comp_00408",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 408 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 1200,
+    "created_at": "2026-01-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00409",
+    "company_id": "hub_comp_00409",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 409 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2025-01-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00410",
+    "company_id": "hub_comp_00410",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 410 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2025-01-17 00:00:00",
+    "closed_at": "2025-02-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00411",
+    "company_id": "hub_comp_00411",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 411 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2024-01-08 00:00:00",
+    "closed_at": "2024-02-09 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00412",
+    "company_id": "hub_comp_00412",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 412 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2024-08-10 00:00:00",
+    "closed_at": "2024-09-24 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00413",
+    "company_id": "hub_comp_00413",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 413 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-03-14 00:00:00",
+    "closed_at": "2023-04-07 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00414",
+    "company_id": "hub_comp_00414",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 414 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2023-06-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00415",
+    "company_id": "hub_comp_00415",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 415 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-07-16 00:00:00",
+    "closed_at": "2025-08-14 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00416",
+    "company_id": "hub_comp_00416",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 416 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2023-08-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00417",
+    "company_id": "hub_comp_00417",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 417 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-09-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00418",
+    "company_id": "hub_comp_00418",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 418 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-11-27 00:00:00",
+    "closed_at": "2024-12-08 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00419",
+    "company_id": "hub_comp_00419",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 419 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2024-11-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00420",
+    "company_id": "hub_comp_00420",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 420 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2026-05-08 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00421",
+    "company_id": "hub_comp_00421",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 421 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-06-22 00:00:00",
+    "closed_at": "2025-07-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00422",
+    "company_id": "hub_comp_00422",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 422 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2026-08-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00423",
+    "company_id": "hub_comp_00423",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 423 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-05-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00424",
+    "company_id": "hub_comp_00424",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 424 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2025-10-08 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00425",
+    "company_id": "hub_comp_00425",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 425 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2023-07-11 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00426",
+    "company_id": "hub_comp_00426",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 426 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2025-12-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00427",
+    "company_id": "hub_comp_00427",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 427 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-04-25 00:00:00",
+    "closed_at": "2026-05-15 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00428",
+    "company_id": "hub_comp_00428",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 428 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2026-02-13 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00429",
+    "company_id": "hub_comp_00429",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 429 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2026-07-29 00:00:00",
+    "closed_at": "2026-08-09 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00430",
+    "company_id": "hub_comp_00430",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 430 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-06-24 00:00:00",
+    "closed_at": "2024-07-24 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00431",
+    "company_id": "hub_comp_00431",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 431 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-07-22 00:00:00",
+    "closed_at": "2026-08-08 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00432",
+    "company_id": "hub_comp_00432",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 432 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2025-05-02 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00433",
+    "company_id": "hub_comp_00433",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 433 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2024-06-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00434",
+    "company_id": "hub_comp_00434",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 434 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 24000,
+    "created_at": "2023-02-04 00:00:00",
+    "closed_at": "2023-02-22 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00435",
+    "company_id": "hub_comp_00435",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 435 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-08-06 00:00:00",
+    "closed_at": "2024-09-10 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00436",
+    "company_id": "hub_comp_00436",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 436 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2024-11-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00437",
+    "company_id": "hub_comp_00437",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 437 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2024-09-29 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00438",
+    "company_id": "hub_comp_00438",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 438 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-08-27 00:00:00",
+    "closed_at": "2025-10-10 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00439",
+    "company_id": "hub_comp_00439",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 439 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2025-11-27 00:00:00",
+    "closed_at": "2025-12-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00440",
+    "company_id": "hub_comp_00440",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 440 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2024-05-02 00:00:00",
+    "closed_at": "2024-05-16 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00441",
+    "company_id": "hub_comp_00441",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 441 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-12-23 00:00:00",
+    "closed_at": "2025-01-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00442",
+    "company_id": "hub_comp_00442",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 442 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-10-21 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00443",
+    "company_id": "hub_comp_00443",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 443 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2025-07-22 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00444",
+    "company_id": "hub_comp_00444",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 444 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 24000,
+    "created_at": "2023-07-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00445",
+    "company_id": "hub_comp_00445",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 445 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-08-12 00:00:00",
+    "closed_at": "2024-08-23 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00446",
+    "company_id": "hub_comp_00446",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 446 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2025-11-30 00:00:00",
+    "closed_at": "2025-12-07 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00447",
+    "company_id": "hub_comp_00447",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 447 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2025-08-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00448",
+    "company_id": "hub_comp_00448",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 448 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2024-09-04 00:00:00",
+    "closed_at": "2024-10-04 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00449",
+    "company_id": "hub_comp_00449",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 449 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2023-06-30 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00450",
+    "company_id": "hub_comp_00450",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 450 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-01-12 00:00:00",
+    "closed_at": "2026-02-05 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00451",
+    "company_id": "hub_comp_00451",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 451 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2023-10-01 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00452",
+    "company_id": "hub_comp_00452",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 452 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2025-06-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00453",
+    "company_id": "hub_comp_00453",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 453 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-07-03 00:00:00",
+    "closed_at": "2025-07-08 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00454",
+    "company_id": "hub_comp_00454",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 454 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2026-07-24 00:00:00",
+    "closed_at": "2026-08-31 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00455",
+    "company_id": "hub_comp_00455",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 455 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2025-05-23 00:00:00",
+    "closed_at": "2025-06-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00456",
+    "company_id": "hub_comp_00456",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 456 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2026-06-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00457",
+    "company_id": "hub_comp_00457",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 457 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 3600,
+    "created_at": "2024-08-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00458",
+    "company_id": "hub_comp_00458",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 458 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2025-11-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00459",
+    "company_id": "hub_comp_00459",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 459 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2023-05-02 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00460",
+    "company_id": "hub_comp_00460",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 460 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 3600,
+    "created_at": "2026-07-19 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00461",
+    "company_id": "hub_comp_00461",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 461 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-05-16 00:00:00",
+    "closed_at": "2025-05-29 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00462",
+    "company_id": "hub_comp_00462",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 462 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2025-04-29 00:00:00",
+    "closed_at": "2025-06-09 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00463",
+    "company_id": "hub_comp_00463",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 463 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-07-23 00:00:00",
+    "closed_at": "2026-08-25 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00464",
+    "company_id": "hub_comp_00464",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 464 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2026-01-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00465",
+    "company_id": "hub_comp_00465",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 465 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 60000,
+    "created_at": "2025-12-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00466",
+    "company_id": "hub_comp_00466",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 466 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2023-05-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00467",
+    "company_id": "hub_comp_00467",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 467 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2026-04-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00468",
+    "company_id": "hub_comp_00468",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 468 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2024-03-30 00:00:00",
+    "closed_at": "2024-04-13 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00469",
+    "company_id": "hub_comp_00469",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 469 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 1200,
+    "created_at": "2025-10-06 00:00:00",
+    "closed_at": "2025-10-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00470",
+    "company_id": "hub_comp_00470",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 470 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2023-09-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00471",
+    "company_id": "hub_comp_00471",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 471 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 12000,
+    "created_at": "2024-09-24 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00472",
+    "company_id": "hub_comp_00472",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 472 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-01-21 00:00:00",
+    "closed_at": "2024-02-23 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00473",
+    "company_id": "hub_comp_00473",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 473 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2025-02-17 00:00:00",
+    "closed_at": "2025-02-27 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00474",
+    "company_id": "hub_comp_00474",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 474 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 1200,
+    "created_at": "2025-03-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00475",
+    "company_id": "hub_comp_00475",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 475 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2024-02-03 00:00:00",
+    "closed_at": "2024-03-17 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00476",
+    "company_id": "hub_comp_00476",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 476 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2025-04-07 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00477",
+    "company_id": "hub_comp_00477",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 477 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 12000,
+    "created_at": "2024-08-12 00:00:00",
+    "closed_at": "2024-08-26 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00478",
+    "company_id": "hub_comp_00478",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 478 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 60000,
+    "created_at": "2024-11-12 00:00:00",
+    "closed_at": "2024-12-11 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00479",
+    "company_id": "hub_comp_00479",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 479 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-07-10 00:00:00",
+    "closed_at": "2024-08-19 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00480",
+    "company_id": "hub_comp_00480",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 480 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-10-01 00:00:00",
+    "closed_at": "2024-10-06 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00481",
+    "company_id": "hub_comp_00481",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 481 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2026-07-08 00:00:00",
+    "closed_at": "2026-08-19 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00482",
+    "company_id": "hub_comp_00482",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 482 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2023-04-20 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00483",
+    "company_id": "hub_comp_00483",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 483 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 60000,
+    "created_at": "2024-11-04 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00484",
+    "company_id": "hub_comp_00484",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 484 - Expansion Deal",
+    "deal_stage": "Closed Won",
+    "amount": 3600,
+    "created_at": "2025-03-28 00:00:00",
+    "closed_at": "2025-04-30 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00485",
+    "company_id": "hub_comp_00485",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 485 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 12000,
+    "created_at": "2024-04-01 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00486",
+    "company_id": "hub_comp_00486",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 486 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2026-06-12 00:00:00",
+    "closed_at": "2026-07-22 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00487",
+    "company_id": "hub_comp_00487",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 487 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2026-03-23 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00488",
+    "company_id": "hub_comp_00488",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 488 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 24000,
+    "created_at": "2025-06-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00489",
+    "company_id": "hub_comp_00489",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 489 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2024-10-18 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00490",
+    "company_id": "hub_comp_00490",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 490 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2024-11-14 00:00:00",
+    "closed_at": "2024-12-27 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00491",
+    "company_id": "hub_comp_00491",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 491 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2023-08-03 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00492",
+    "company_id": "hub_comp_00492",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 492 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-03-04 00:00:00",
+    "closed_at": "2025-03-21 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00493",
+    "company_id": "hub_comp_00493",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 493 - Expansion Deal",
+    "deal_stage": "Contract Sent",
+    "amount": 24000,
+    "created_at": "2023-08-19 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00494",
+    "company_id": "hub_comp_00494",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 494 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 60000,
+    "created_at": "2024-10-17 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00495",
+    "company_id": "hub_comp_00495",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 495 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2023-05-18 00:00:00",
+    "closed_at": "2023-07-01 00:00:00"
+  },
+  {
+    "deal_id": "hub_deal_00496",
+    "company_id": "hub_comp_00496",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 496 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2025-05-16 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00497",
+    "company_id": "hub_comp_00497",
+    "owner_id": "hub_own_001",
+    "deal_name": "Enterprise Corp 497 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 1200,
+    "created_at": "2026-07-14 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00498",
+    "company_id": "hub_comp_00498",
+    "owner_id": "hub_own_002",
+    "deal_name": "Enterprise Corp 498 - Expansion Deal",
+    "deal_stage": "Value Proposition",
+    "amount": 12000,
+    "created_at": "2023-10-27 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00499",
+    "company_id": "hub_comp_00499",
+    "owner_id": "hub_own_003",
+    "deal_name": "Enterprise Corp 499 - Expansion Deal",
+    "deal_stage": "Discovery",
+    "amount": 3600,
+    "created_at": "2024-04-05 00:00:00",
+    "closed_at": null
+  },
+  {
+    "deal_id": "hub_deal_00500",
+    "company_id": "hub_comp_00500",
+    "owner_id": "hub_own_004",
+    "deal_name": "Enterprise Corp 500 - Expansion Deal",
+    "deal_stage": "Closed Lost",
+    "amount": 0,
+    "created_at": "2025-08-06 00:00:00",
+    "closed_at": "2025-08-31 00:00:00"
+  }
+]
