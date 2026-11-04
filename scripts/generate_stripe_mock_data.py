@@ -288,6 +288,3 @@ def load_to_snowflake():
 
     conn.close()
     print("🔒 Snowflake connection closed successfully.")
-
-if __name__ == "__main__":
-    load_to_snowflake()

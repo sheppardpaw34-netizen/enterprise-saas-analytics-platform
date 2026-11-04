@@ -1,0 +1,4002 @@
+[
+  {
+    "company_id": "hub_comp_00001",
+    "company_name": "Enterprise Corp 1 LLC",
+    "domain": " acmecorp1.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-08-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00002",
+    "company_name": "Enterprise Corp 2 LLC",
+    "domain": " acmecorp2.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-07-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00003",
+    "company_name": "Enterprise Corp 3 LLC",
+    "domain": " acmecorp3.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-07-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00004",
+    "company_name": "Enterprise Corp 4 LLC",
+    "domain": " acmecorp4.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-04-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00005",
+    "company_name": "Enterprise Corp 5 LLC",
+    "domain": " acmecorp5.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-12-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00006",
+    "company_name": "Enterprise Corp 6 LLC",
+    "domain": " acmecorp6.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-10-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00007",
+    "company_name": "Enterprise Corp 7 LLC",
+    "domain": " acmecorp7.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-10-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00008",
+    "company_name": "Enterprise Corp 8 LLC",
+    "domain": " acmecorp8.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-12-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00009",
+    "company_name": "Enterprise Corp 9 LLC",
+    "domain": " acmecorp9.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-11-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00010",
+    "company_name": "Enterprise Corp 10 LLC",
+    "domain": "  ACMECORP10.COM  ",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-08-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00011",
+    "company_name": "Enterprise Corp 11 LLC",
+    "domain": " acmecorp11.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-08-31 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00012",
+    "company_name": "Enterprise Corp 12 LLC",
+    "domain": " acmecorp12.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-05-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00013",
+    "company_name": "Enterprise Corp 13 LLC",
+    "domain": " acmecorp13.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-05-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00014",
+    "company_name": "Enterprise Corp 14 LLC",
+    "domain": " acmecorp14.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-11-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00015",
+    "company_name": "Enterprise Corp 15 LLC",
+    "domain": "ACMECORP15.COM",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-04-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00016",
+    "company_name": "Enterprise Corp 16 LLC",
+    "domain": " acmecorp16.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-12-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00017",
+    "company_name": "Enterprise Corp 17 LLC",
+    "domain": " acmecorp17.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-04-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00018",
+    "company_name": "Enterprise Corp 18 LLC",
+    "domain": " acmecorp18.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-01-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00019",
+    "company_name": "Enterprise Corp 19 LLC",
+    "domain": " acmecorp19.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-04-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00020",
+    "company_name": "Enterprise Corp 20 LLC",
+    "domain": "  ACMECORP20.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-06-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00021",
+    "company_name": "Enterprise Corp 21 LLC",
+    "domain": " acmecorp21.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-06-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00022",
+    "company_name": "Enterprise Corp 22 LLC",
+    "domain": " acmecorp22.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-12-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00023",
+    "company_name": "Enterprise Corp 23 LLC",
+    "domain": " acmecorp23.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-11-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00024",
+    "company_name": "Enterprise Corp 24 LLC",
+    "domain": " acmecorp24.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-06-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00025",
+    "company_name": "Enterprise Corp 25 LLC",
+    "domain": " acmecorp25.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-06-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00026",
+    "company_name": "Enterprise Corp 26 LLC",
+    "domain": " acmecorp26.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-05-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00027",
+    "company_name": "Enterprise Corp 27 LLC",
+    "domain": " acmecorp27.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-06-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00028",
+    "company_name": "Enterprise Corp 28 LLC",
+    "domain": " acmecorp28.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-09-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00029",
+    "company_name": "Enterprise Corp 29 LLC",
+    "domain": " acmecorp29.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-08-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00030",
+    "company_name": "Enterprise Corp 30 LLC",
+    "domain": "  ACMECORP30.COM  ",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-05-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00031",
+    "company_name": "Enterprise Corp 31 LLC",
+    "domain": " acmecorp31.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-08-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00032",
+    "company_name": "Enterprise Corp 32 LLC",
+    "domain": " acmecorp32.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-08-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00033",
+    "company_name": "Enterprise Corp 33 LLC",
+    "domain": " acmecorp33.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-08-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00034",
+    "company_name": "Enterprise Corp 34 LLC",
+    "domain": " acmecorp34.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-05-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00035",
+    "company_name": "Enterprise Corp 35 LLC",
+    "domain": " acmecorp35.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-09-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00036",
+    "company_name": "Enterprise Corp 36 LLC",
+    "domain": " acmecorp36.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-08-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00037",
+    "company_name": "Enterprise Corp 37 LLC",
+    "domain": " acmecorp37.com",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-01-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00038",
+    "company_name": "Enterprise Corp 38 LLC",
+    "domain": " acmecorp38.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-05-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00039",
+    "company_name": "Enterprise Corp 39 LLC",
+    "domain": " acmecorp39.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-04-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00040",
+    "company_name": "Enterprise Corp 40 LLC",
+    "domain": "  ACMECORP40.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-01-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00041",
+    "company_name": "Enterprise Corp 41 LLC",
+    "domain": " acmecorp41.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-10-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00042",
+    "company_name": "Enterprise Corp 42 LLC",
+    "domain": " acmecorp42.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-07-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00043",
+    "company_name": "Enterprise Corp 43 LLC",
+    "domain": " acmecorp43.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-04-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00044",
+    "company_name": "Enterprise Corp 44 LLC",
+    "domain": " acmecorp44.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-04-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00045",
+    "company_name": "Enterprise Corp 45 LLC",
+    "domain": "ACMECORP45.COM",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-09-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00046",
+    "company_name": "Enterprise Corp 46 LLC",
+    "domain": " acmecorp46.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-09-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00047",
+    "company_name": "Enterprise Corp 47 LLC",
+    "domain": " acmecorp47.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-12-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00048",
+    "company_name": "Enterprise Corp 48 LLC",
+    "domain": " acmecorp48.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-05-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00049",
+    "company_name": "Enterprise Corp 49 LLC",
+    "domain": " acmecorp49.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-08-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00050",
+    "company_name": "Enterprise Corp 50 LLC",
+    "domain": "  ACMECORP50.COM  ",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-08-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00051",
+    "company_name": "Enterprise Corp 51 LLC",
+    "domain": " acmecorp51.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-09-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00052",
+    "company_name": "Enterprise Corp 52 LLC",
+    "domain": " acmecorp52.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-07-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00053",
+    "company_name": "Enterprise Corp 53 LLC",
+    "domain": " acmecorp53.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-04-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00054",
+    "company_name": "Enterprise Corp 54 LLC",
+    "domain": " acmecorp54.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-04-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00055",
+    "company_name": "Enterprise Corp 55 LLC",
+    "domain": " acmecorp55.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-11-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00056",
+    "company_name": "Enterprise Corp 56 LLC",
+    "domain": " acmecorp56.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-11-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00057",
+    "company_name": "Enterprise Corp 57 LLC",
+    "domain": " acmecorp57.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-11-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00058",
+    "company_name": "Enterprise Corp 58 LLC",
+    "domain": " acmecorp58.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-03-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00059",
+    "company_name": "Enterprise Corp 59 LLC",
+    "domain": " acmecorp59.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-07-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00060",
+    "company_name": "Enterprise Corp 60 LLC",
+    "domain": "  ACMECORP60.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-01-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00061",
+    "company_name": "Enterprise Corp 61 LLC",
+    "domain": " acmecorp61.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-09-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00062",
+    "company_name": "Enterprise Corp 62 LLC",
+    "domain": " acmecorp62.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-06-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00063",
+    "company_name": "Enterprise Corp 63 LLC",
+    "domain": " acmecorp63.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-04-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00064",
+    "company_name": "Enterprise Corp 64 LLC",
+    "domain": " acmecorp64.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-08-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00065",
+    "company_name": "Enterprise Corp 65 LLC",
+    "domain": " acmecorp65.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-07-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00066",
+    "company_name": "Enterprise Corp 66 LLC",
+    "domain": " acmecorp66.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-02-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00067",
+    "company_name": "Enterprise Corp 67 LLC",
+    "domain": " acmecorp67.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-06-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00068",
+    "company_name": "Enterprise Corp 68 LLC",
+    "domain": " acmecorp68.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-04-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00069",
+    "company_name": "Enterprise Corp 69 LLC",
+    "domain": " acmecorp69.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-03-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00070",
+    "company_name": "Enterprise Corp 70 LLC",
+    "domain": "  ACMECORP70.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-09-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00071",
+    "company_name": "Enterprise Corp 71 LLC",
+    "domain": " acmecorp71.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-07-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00072",
+    "company_name": "Enterprise Corp 72 LLC",
+    "domain": " acmecorp72.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-01-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00073",
+    "company_name": "Enterprise Corp 73 LLC",
+    "domain": " acmecorp73.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-09-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00074",
+    "company_name": "Enterprise Corp 74 LLC",
+    "domain": " acmecorp74.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-07-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00075",
+    "company_name": "Enterprise Corp 75 LLC",
+    "domain": "ACMECORP75.COM",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-05-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00076",
+    "company_name": "Enterprise Corp 76 LLC",
+    "domain": " acmecorp76.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-09-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00077",
+    "company_name": "Enterprise Corp 77 LLC",
+    "domain": " acmecorp77.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-05-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00078",
+    "company_name": "Enterprise Corp 78 LLC",
+    "domain": " acmecorp78.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-02-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00079",
+    "company_name": "Enterprise Corp 79 LLC",
+    "domain": " acmecorp79.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-05-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00080",
+    "company_name": "Enterprise Corp 80 LLC",
+    "domain": "  ACMECORP80.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-05-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00081",
+    "company_name": "Enterprise Corp 81 LLC",
+    "domain": " acmecorp81.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-05-31 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00082",
+    "company_name": "Enterprise Corp 82 LLC",
+    "domain": " acmecorp82.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-03-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00083",
+    "company_name": "Enterprise Corp 83 LLC",
+    "domain": " acmecorp83.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-12-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00084",
+    "company_name": "Enterprise Corp 84 LLC",
+    "domain": " acmecorp84.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-06-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00085",
+    "company_name": "Enterprise Corp 85 LLC",
+    "domain": " acmecorp85.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-08-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00086",
+    "company_name": "Enterprise Corp 86 LLC",
+    "domain": " acmecorp86.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-04-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00087",
+    "company_name": "Enterprise Corp 87 LLC",
+    "domain": " acmecorp87.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-03-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00088",
+    "company_name": "Enterprise Corp 88 LLC",
+    "domain": " acmecorp88.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-02-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00089",
+    "company_name": "Enterprise Corp 89 LLC",
+    "domain": " acmecorp89.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-02-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00090",
+    "company_name": "Enterprise Corp 90 LLC",
+    "domain": "  ACMECORP90.COM  ",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-09-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00091",
+    "company_name": "Enterprise Corp 91 LLC",
+    "domain": " acmecorp91.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-05-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00092",
+    "company_name": "Enterprise Corp 92 LLC",
+    "domain": " acmecorp92.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-06-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00093",
+    "company_name": "Enterprise Corp 93 LLC",
+    "domain": " acmecorp93.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-05-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00094",
+    "company_name": "Enterprise Corp 94 LLC",
+    "domain": " acmecorp94.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-07-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00095",
+    "company_name": "Enterprise Corp 95 LLC",
+    "domain": " acmecorp95.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-08-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00096",
+    "company_name": "Enterprise Corp 96 LLC",
+    "domain": " acmecorp96.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-05-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00097",
+    "company_name": "Enterprise Corp 97 LLC",
+    "domain": " acmecorp97.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-03-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00098",
+    "company_name": "Enterprise Corp 98 LLC",
+    "domain": " acmecorp98.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-07-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00099",
+    "company_name": "Enterprise Corp 99 LLC",
+    "domain": " acmecorp99.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-09-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00100",
+    "company_name": "Enterprise Corp 100 LLC",
+    "domain": "  ACMECORP100.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-01-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00101",
+    "company_name": "Enterprise Corp 101 LLC",
+    "domain": " acmecorp101.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-11-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00102",
+    "company_name": "Enterprise Corp 102 LLC",
+    "domain": " acmecorp102.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-01-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00103",
+    "company_name": "Enterprise Corp 103 LLC",
+    "domain": " acmecorp103.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-02-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00104",
+    "company_name": "Enterprise Corp 104 LLC",
+    "domain": " acmecorp104.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-06-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00105",
+    "company_name": "Enterprise Corp 105 LLC",
+    "domain": "ACMECORP105.COM",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-06-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00106",
+    "company_name": "Enterprise Corp 106 LLC",
+    "domain": " acmecorp106.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-02-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00107",
+    "company_name": "Enterprise Corp 107 LLC",
+    "domain": " acmecorp107.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-10-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00108",
+    "company_name": "Enterprise Corp 108 LLC",
+    "domain": " acmecorp108.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-09-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00109",
+    "company_name": "Enterprise Corp 109 LLC",
+    "domain": " acmecorp109.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-04-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00110",
+    "company_name": "Enterprise Corp 110 LLC",
+    "domain": "  ACMECORP110.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-08-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00111",
+    "company_name": "Enterprise Corp 111 LLC",
+    "domain": " acmecorp111.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-05-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00112",
+    "company_name": "Enterprise Corp 112 LLC",
+    "domain": " acmecorp112.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-10-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00113",
+    "company_name": "Enterprise Corp 113 LLC",
+    "domain": " acmecorp113.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-03-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00114",
+    "company_name": "Enterprise Corp 114 LLC",
+    "domain": " acmecorp114.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-03-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00115",
+    "company_name": "Enterprise Corp 115 LLC",
+    "domain": " acmecorp115.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-08-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00116",
+    "company_name": "Enterprise Corp 116 LLC",
+    "domain": " acmecorp116.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-01-31 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00117",
+    "company_name": "Enterprise Corp 117 LLC",
+    "domain": " acmecorp117.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-11-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00118",
+    "company_name": "Enterprise Corp 118 LLC",
+    "domain": " acmecorp118.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-11-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00119",
+    "company_name": "Enterprise Corp 119 LLC",
+    "domain": " acmecorp119.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-12-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00120",
+    "company_name": "Enterprise Corp 120 LLC",
+    "domain": "  ACMECORP120.COM  ",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-05-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00121",
+    "company_name": "Enterprise Corp 121 LLC",
+    "domain": " acmecorp121.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-04-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00122",
+    "company_name": "Enterprise Corp 122 LLC",
+    "domain": " acmecorp122.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-06-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00123",
+    "company_name": "Enterprise Corp 123 LLC",
+    "domain": " acmecorp123.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-11-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00124",
+    "company_name": "Enterprise Corp 124 LLC",
+    "domain": " acmecorp124.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-10-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00125",
+    "company_name": "Enterprise Corp 125 LLC",
+    "domain": " acmecorp125.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-01-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00126",
+    "company_name": "Enterprise Corp 126 LLC",
+    "domain": " acmecorp126.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-10-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00127",
+    "company_name": "Enterprise Corp 127 LLC",
+    "domain": " acmecorp127.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-08-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00128",
+    "company_name": "Enterprise Corp 128 LLC",
+    "domain": " acmecorp128.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-01-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00129",
+    "company_name": "Enterprise Corp 129 LLC",
+    "domain": " acmecorp129.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-05-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00130",
+    "company_name": "Enterprise Corp 130 LLC",
+    "domain": "  ACMECORP130.COM  ",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-07-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00131",
+    "company_name": "Enterprise Corp 131 LLC",
+    "domain": " acmecorp131.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-03-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00132",
+    "company_name": "Enterprise Corp 132 LLC",
+    "domain": " acmecorp132.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-02-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00133",
+    "company_name": "Enterprise Corp 133 LLC",
+    "domain": " acmecorp133.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-05-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00134",
+    "company_name": "Enterprise Corp 134 LLC",
+    "domain": " acmecorp134.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-01-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00135",
+    "company_name": "Enterprise Corp 135 LLC",
+    "domain": "ACMECORP135.COM",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-04-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00136",
+    "company_name": "Enterprise Corp 136 LLC",
+    "domain": " acmecorp136.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-07-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00137",
+    "company_name": "Enterprise Corp 137 LLC",
+    "domain": " acmecorp137.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-04-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00138",
+    "company_name": "Enterprise Corp 138 LLC",
+    "domain": " acmecorp138.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-07-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00139",
+    "company_name": "Enterprise Corp 139 LLC",
+    "domain": " acmecorp139.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-05-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00140",
+    "company_name": "Enterprise Corp 140 LLC",
+    "domain": "  ACMECORP140.COM  ",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-04-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00141",
+    "company_name": "Enterprise Corp 141 LLC",
+    "domain": " acmecorp141.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-05-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00142",
+    "company_name": "Enterprise Corp 142 LLC",
+    "domain": " acmecorp142.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-04-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00143",
+    "company_name": "Enterprise Corp 143 LLC",
+    "domain": " acmecorp143.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-11-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00144",
+    "company_name": "Enterprise Corp 144 LLC",
+    "domain": " acmecorp144.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-06-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00145",
+    "company_name": "Enterprise Corp 145 LLC",
+    "domain": " acmecorp145.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-02-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00146",
+    "company_name": "Enterprise Corp 146 LLC",
+    "domain": " acmecorp146.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-05-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00147",
+    "company_name": "Enterprise Corp 147 LLC",
+    "domain": " acmecorp147.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-04-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00148",
+    "company_name": "Enterprise Corp 148 LLC",
+    "domain": " acmecorp148.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-01-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00149",
+    "company_name": "Enterprise Corp 149 LLC",
+    "domain": " acmecorp149.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-03-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00150",
+    "company_name": "Enterprise Corp 150 LLC",
+    "domain": "  ACMECORP150.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-10-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00151",
+    "company_name": "Enterprise Corp 151 LLC",
+    "domain": " acmecorp151.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-11-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00152",
+    "company_name": "Enterprise Corp 152 LLC",
+    "domain": " acmecorp152.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-02-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00153",
+    "company_name": "Enterprise Corp 153 LLC",
+    "domain": " acmecorp153.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-10-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00154",
+    "company_name": "Enterprise Corp 154 LLC",
+    "domain": " acmecorp154.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-09-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00155",
+    "company_name": "Enterprise Corp 155 LLC",
+    "domain": " acmecorp155.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-09-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00156",
+    "company_name": "Enterprise Corp 156 LLC",
+    "domain": " acmecorp156.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-01-31 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00157",
+    "company_name": "Enterprise Corp 157 LLC",
+    "domain": " acmecorp157.com",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-01-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00158",
+    "company_name": "Enterprise Corp 158 LLC",
+    "domain": " acmecorp158.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-03-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00159",
+    "company_name": "Enterprise Corp 159 LLC",
+    "domain": " acmecorp159.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-09-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00160",
+    "company_name": "Enterprise Corp 160 LLC",
+    "domain": "  ACMECORP160.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-08-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00161",
+    "company_name": "Enterprise Corp 161 LLC",
+    "domain": " acmecorp161.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-07-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00162",
+    "company_name": "Enterprise Corp 162 LLC",
+    "domain": " acmecorp162.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-09-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00163",
+    "company_name": "Enterprise Corp 163 LLC",
+    "domain": " acmecorp163.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-10-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00164",
+    "company_name": "Enterprise Corp 164 LLC",
+    "domain": " acmecorp164.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-01-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00165",
+    "company_name": "Enterprise Corp 165 LLC",
+    "domain": "ACMECORP165.COM",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-03-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00166",
+    "company_name": "Enterprise Corp 166 LLC",
+    "domain": " acmecorp166.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-01-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00167",
+    "company_name": "Enterprise Corp 167 LLC",
+    "domain": " acmecorp167.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-08-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00168",
+    "company_name": "Enterprise Corp 168 LLC",
+    "domain": " acmecorp168.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-11-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00169",
+    "company_name": "Enterprise Corp 169 LLC",
+    "domain": " acmecorp169.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-10-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00170",
+    "company_name": "Enterprise Corp 170 LLC",
+    "domain": "  ACMECORP170.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-11-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00171",
+    "company_name": "Enterprise Corp 171 LLC",
+    "domain": " acmecorp171.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-04-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00172",
+    "company_name": "Enterprise Corp 172 LLC",
+    "domain": " acmecorp172.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-08-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00173",
+    "company_name": "Enterprise Corp 173 LLC",
+    "domain": " acmecorp173.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-11-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00174",
+    "company_name": "Enterprise Corp 174 LLC",
+    "domain": " acmecorp174.com",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-07-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00175",
+    "company_name": "Enterprise Corp 175 LLC",
+    "domain": " acmecorp175.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-03-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00176",
+    "company_name": "Enterprise Corp 176 LLC",
+    "domain": " acmecorp176.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-08-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00177",
+    "company_name": "Enterprise Corp 177 LLC",
+    "domain": " acmecorp177.com",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-12-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00178",
+    "company_name": "Enterprise Corp 178 LLC",
+    "domain": " acmecorp178.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-03-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00179",
+    "company_name": "Enterprise Corp 179 LLC",
+    "domain": " acmecorp179.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-09-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00180",
+    "company_name": "Enterprise Corp 180 LLC",
+    "domain": "  ACMECORP180.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-12-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00181",
+    "company_name": "Enterprise Corp 181 LLC",
+    "domain": " acmecorp181.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-06-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00182",
+    "company_name": "Enterprise Corp 182 LLC",
+    "domain": " acmecorp182.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-04-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00183",
+    "company_name": "Enterprise Corp 183 LLC",
+    "domain": " acmecorp183.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-10-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00184",
+    "company_name": "Enterprise Corp 184 LLC",
+    "domain": " acmecorp184.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-02-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00185",
+    "company_name": "Enterprise Corp 185 LLC",
+    "domain": " acmecorp185.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-02-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00186",
+    "company_name": "Enterprise Corp 186 LLC",
+    "domain": " acmecorp186.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-10-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00187",
+    "company_name": "Enterprise Corp 187 LLC",
+    "domain": " acmecorp187.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-04-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00188",
+    "company_name": "Enterprise Corp 188 LLC",
+    "domain": " acmecorp188.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-07-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00189",
+    "company_name": "Enterprise Corp 189 LLC",
+    "domain": " acmecorp189.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-10-31 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00190",
+    "company_name": "Enterprise Corp 190 LLC",
+    "domain": "  ACMECORP190.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-10-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00191",
+    "company_name": "Enterprise Corp 191 LLC",
+    "domain": " acmecorp191.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-06-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00192",
+    "company_name": "Enterprise Corp 192 LLC",
+    "domain": " acmecorp192.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-12-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00193",
+    "company_name": "Enterprise Corp 193 LLC",
+    "domain": " acmecorp193.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-02-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00194",
+    "company_name": "Enterprise Corp 194 LLC",
+    "domain": " acmecorp194.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-01-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00195",
+    "company_name": "Enterprise Corp 195 LLC",
+    "domain": "ACMECORP195.COM",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-04-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00196",
+    "company_name": "Enterprise Corp 196 LLC",
+    "domain": " acmecorp196.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-04-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00197",
+    "company_name": "Enterprise Corp 197 LLC",
+    "domain": " acmecorp197.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-01-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00198",
+    "company_name": "Enterprise Corp 198 LLC",
+    "domain": " acmecorp198.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-08-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00199",
+    "company_name": "Enterprise Corp 199 LLC",
+    "domain": " acmecorp199.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-11-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00200",
+    "company_name": "Enterprise Corp 200 LLC",
+    "domain": "  ACMECORP200.COM  ",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-05-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00201",
+    "company_name": "Enterprise Corp 201 LLC",
+    "domain": " acmecorp201.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-10-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00202",
+    "company_name": "Enterprise Corp 202 LLC",
+    "domain": " acmecorp202.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-12-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00203",
+    "company_name": "Enterprise Corp 203 LLC",
+    "domain": " acmecorp203.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-10-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00204",
+    "company_name": "Enterprise Corp 204 LLC",
+    "domain": " acmecorp204.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-03-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00205",
+    "company_name": "Enterprise Corp 205 LLC",
+    "domain": " acmecorp205.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-01-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00206",
+    "company_name": "Enterprise Corp 206 LLC",
+    "domain": " acmecorp206.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-07-31 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00207",
+    "company_name": "Enterprise Corp 207 LLC",
+    "domain": " acmecorp207.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-01-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00208",
+    "company_name": "Enterprise Corp 208 LLC",
+    "domain": " acmecorp208.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-02-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00209",
+    "company_name": "Enterprise Corp 209 LLC",
+    "domain": " acmecorp209.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-03-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00210",
+    "company_name": "Enterprise Corp 210 LLC",
+    "domain": "  ACMECORP210.COM  ",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-06-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00211",
+    "company_name": "Enterprise Corp 211 LLC",
+    "domain": " acmecorp211.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-08-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00212",
+    "company_name": "Enterprise Corp 212 LLC",
+    "domain": " acmecorp212.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-03-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00213",
+    "company_name": "Enterprise Corp 213 LLC",
+    "domain": " acmecorp213.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-01-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00214",
+    "company_name": "Enterprise Corp 214 LLC",
+    "domain": " acmecorp214.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-12-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00215",
+    "company_name": "Enterprise Corp 215 LLC",
+    "domain": " acmecorp215.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-07-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00216",
+    "company_name": "Enterprise Corp 216 LLC",
+    "domain": " acmecorp216.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-07-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00217",
+    "company_name": "Enterprise Corp 217 LLC",
+    "domain": " acmecorp217.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-08-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00218",
+    "company_name": "Enterprise Corp 218 LLC",
+    "domain": " acmecorp218.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-08-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00219",
+    "company_name": "Enterprise Corp 219 LLC",
+    "domain": " acmecorp219.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-08-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00220",
+    "company_name": "Enterprise Corp 220 LLC",
+    "domain": "  ACMECORP220.COM  ",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-08-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00221",
+    "company_name": "Enterprise Corp 221 LLC",
+    "domain": " acmecorp221.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-02-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00222",
+    "company_name": "Enterprise Corp 222 LLC",
+    "domain": " acmecorp222.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-04-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00223",
+    "company_name": "Enterprise Corp 223 LLC",
+    "domain": " acmecorp223.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-02-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00224",
+    "company_name": "Enterprise Corp 224 LLC",
+    "domain": " acmecorp224.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-07-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00225",
+    "company_name": "Enterprise Corp 225 LLC",
+    "domain": "ACMECORP225.COM",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-02-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00226",
+    "company_name": "Enterprise Corp 226 LLC",
+    "domain": " acmecorp226.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-04-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00227",
+    "company_name": "Enterprise Corp 227 LLC",
+    "domain": " acmecorp227.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-04-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00228",
+    "company_name": "Enterprise Corp 228 LLC",
+    "domain": " acmecorp228.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-05-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00229",
+    "company_name": "Enterprise Corp 229 LLC",
+    "domain": " acmecorp229.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-05-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00230",
+    "company_name": "Enterprise Corp 230 LLC",
+    "domain": "  ACMECORP230.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-01-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00231",
+    "company_name": "Enterprise Corp 231 LLC",
+    "domain": " acmecorp231.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-07-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00232",
+    "company_name": "Enterprise Corp 232 LLC",
+    "domain": " acmecorp232.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-11-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00233",
+    "company_name": "Enterprise Corp 233 LLC",
+    "domain": " acmecorp233.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-05-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00234",
+    "company_name": "Enterprise Corp 234 LLC",
+    "domain": " acmecorp234.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-01-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00235",
+    "company_name": "Enterprise Corp 235 LLC",
+    "domain": " acmecorp235.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-10-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00236",
+    "company_name": "Enterprise Corp 236 LLC",
+    "domain": " acmecorp236.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-10-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00237",
+    "company_name": "Enterprise Corp 237 LLC",
+    "domain": " acmecorp237.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-07-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00238",
+    "company_name": "Enterprise Corp 238 LLC",
+    "domain": " acmecorp238.com",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-03-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00239",
+    "company_name": "Enterprise Corp 239 LLC",
+    "domain": " acmecorp239.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-06-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00240",
+    "company_name": "Enterprise Corp 240 LLC",
+    "domain": "  ACMECORP240.COM  ",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-07-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00241",
+    "company_name": "Enterprise Corp 241 LLC",
+    "domain": " acmecorp241.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-06-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00242",
+    "company_name": "Enterprise Corp 242 LLC",
+    "domain": " acmecorp242.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-02-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00243",
+    "company_name": "Enterprise Corp 243 LLC",
+    "domain": " acmecorp243.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-12-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00244",
+    "company_name": "Enterprise Corp 244 LLC",
+    "domain": " acmecorp244.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-07-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00245",
+    "company_name": "Enterprise Corp 245 LLC",
+    "domain": " acmecorp245.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-06-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00246",
+    "company_name": "Enterprise Corp 246 LLC",
+    "domain": " acmecorp246.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-07-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00247",
+    "company_name": "Enterprise Corp 247 LLC",
+    "domain": " acmecorp247.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-05-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00248",
+    "company_name": "Enterprise Corp 248 LLC",
+    "domain": " acmecorp248.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-11-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00249",
+    "company_name": "Enterprise Corp 249 LLC",
+    "domain": " acmecorp249.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-03-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00250",
+    "company_name": "Enterprise Corp 250 LLC",
+    "domain": "  ACMECORP250.COM  ",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-08-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00251",
+    "company_name": "Enterprise Corp 251 LLC",
+    "domain": " acmecorp251.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-08-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00252",
+    "company_name": "Enterprise Corp 252 LLC",
+    "domain": " acmecorp252.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-03-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00253",
+    "company_name": "Enterprise Corp 253 LLC",
+    "domain": " acmecorp253.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-01-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00254",
+    "company_name": "Enterprise Corp 254 LLC",
+    "domain": " acmecorp254.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-07-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00255",
+    "company_name": "Enterprise Corp 255 LLC",
+    "domain": "ACMECORP255.COM",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-08-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00256",
+    "company_name": "Enterprise Corp 256 LLC",
+    "domain": " acmecorp256.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-08-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00257",
+    "company_name": "Enterprise Corp 257 LLC",
+    "domain": " acmecorp257.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-09-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00258",
+    "company_name": "Enterprise Corp 258 LLC",
+    "domain": " acmecorp258.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-08-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00259",
+    "company_name": "Enterprise Corp 259 LLC",
+    "domain": " acmecorp259.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-11-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00260",
+    "company_name": "Enterprise Corp 260 LLC",
+    "domain": "  ACMECORP260.COM  ",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-03-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00261",
+    "company_name": "Enterprise Corp 261 LLC",
+    "domain": " acmecorp261.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-03-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00262",
+    "company_name": "Enterprise Corp 262 LLC",
+    "domain": " acmecorp262.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-12-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00263",
+    "company_name": "Enterprise Corp 263 LLC",
+    "domain": " acmecorp263.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-10-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00264",
+    "company_name": "Enterprise Corp 264 LLC",
+    "domain": " acmecorp264.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-04-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00265",
+    "company_name": "Enterprise Corp 265 LLC",
+    "domain": " acmecorp265.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-01-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00266",
+    "company_name": "Enterprise Corp 266 LLC",
+    "domain": " acmecorp266.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-07-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00267",
+    "company_name": "Enterprise Corp 267 LLC",
+    "domain": " acmecorp267.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-12-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00268",
+    "company_name": "Enterprise Corp 268 LLC",
+    "domain": " acmecorp268.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-04-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00269",
+    "company_name": "Enterprise Corp 269 LLC",
+    "domain": " acmecorp269.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-01-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00270",
+    "company_name": "Enterprise Corp 270 LLC",
+    "domain": "  ACMECORP270.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-04-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00271",
+    "company_name": "Enterprise Corp 271 LLC",
+    "domain": " acmecorp271.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-07-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00272",
+    "company_name": "Enterprise Corp 272 LLC",
+    "domain": " acmecorp272.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-03-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00273",
+    "company_name": "Enterprise Corp 273 LLC",
+    "domain": " acmecorp273.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-06-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00274",
+    "company_name": "Enterprise Corp 274 LLC",
+    "domain": " acmecorp274.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-07-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00275",
+    "company_name": "Enterprise Corp 275 LLC",
+    "domain": " acmecorp275.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-08-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00276",
+    "company_name": "Enterprise Corp 276 LLC",
+    "domain": " acmecorp276.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-04-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00277",
+    "company_name": "Enterprise Corp 277 LLC",
+    "domain": " acmecorp277.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-03-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00278",
+    "company_name": "Enterprise Corp 278 LLC",
+    "domain": " acmecorp278.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-04-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00279",
+    "company_name": "Enterprise Corp 279 LLC",
+    "domain": " acmecorp279.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-03-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00280",
+    "company_name": "Enterprise Corp 280 LLC",
+    "domain": "  ACMECORP280.COM  ",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-09-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00281",
+    "company_name": "Enterprise Corp 281 LLC",
+    "domain": " acmecorp281.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-06-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00282",
+    "company_name": "Enterprise Corp 282 LLC",
+    "domain": " acmecorp282.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-03-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00283",
+    "company_name": "Enterprise Corp 283 LLC",
+    "domain": " acmecorp283.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-01-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00284",
+    "company_name": "Enterprise Corp 284 LLC",
+    "domain": " acmecorp284.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-05-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00285",
+    "company_name": "Enterprise Corp 285 LLC",
+    "domain": "ACMECORP285.COM",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-03-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00286",
+    "company_name": "Enterprise Corp 286 LLC",
+    "domain": " acmecorp286.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-08-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00287",
+    "company_name": "Enterprise Corp 287 LLC",
+    "domain": " acmecorp287.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-04-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00288",
+    "company_name": "Enterprise Corp 288 LLC",
+    "domain": " acmecorp288.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-12-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00289",
+    "company_name": "Enterprise Corp 289 LLC",
+    "domain": " acmecorp289.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-06-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00290",
+    "company_name": "Enterprise Corp 290 LLC",
+    "domain": "  ACMECORP290.COM  ",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-01-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00291",
+    "company_name": "Enterprise Corp 291 LLC",
+    "domain": " acmecorp291.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-01-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00292",
+    "company_name": "Enterprise Corp 292 LLC",
+    "domain": " acmecorp292.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-04-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00293",
+    "company_name": "Enterprise Corp 293 LLC",
+    "domain": " acmecorp293.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-04-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00294",
+    "company_name": "Enterprise Corp 294 LLC",
+    "domain": " acmecorp294.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-10-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00295",
+    "company_name": "Enterprise Corp 295 LLC",
+    "domain": " acmecorp295.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-04-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00296",
+    "company_name": "Enterprise Corp 296 LLC",
+    "domain": " acmecorp296.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-04-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00297",
+    "company_name": "Enterprise Corp 297 LLC",
+    "domain": " acmecorp297.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-05-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00298",
+    "company_name": "Enterprise Corp 298 LLC",
+    "domain": " acmecorp298.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-01-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00299",
+    "company_name": "Enterprise Corp 299 LLC",
+    "domain": " acmecorp299.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-03-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00300",
+    "company_name": "Enterprise Corp 300 LLC",
+    "domain": "  ACMECORP300.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-10-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00301",
+    "company_name": "Enterprise Corp 301 LLC",
+    "domain": " acmecorp301.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-06-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00302",
+    "company_name": "Enterprise Corp 302 LLC",
+    "domain": " acmecorp302.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-01-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00303",
+    "company_name": "Enterprise Corp 303 LLC",
+    "domain": " acmecorp303.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-06-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00304",
+    "company_name": "Enterprise Corp 304 LLC",
+    "domain": " acmecorp304.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-03-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00305",
+    "company_name": "Enterprise Corp 305 LLC",
+    "domain": " acmecorp305.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-01-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00306",
+    "company_name": "Enterprise Corp 306 LLC",
+    "domain": " acmecorp306.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-12-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00307",
+    "company_name": "Enterprise Corp 307 LLC",
+    "domain": " acmecorp307.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-08-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00308",
+    "company_name": "Enterprise Corp 308 LLC",
+    "domain": " acmecorp308.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-12-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00309",
+    "company_name": "Enterprise Corp 309 LLC",
+    "domain": " acmecorp309.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-03-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00310",
+    "company_name": "Enterprise Corp 310 LLC",
+    "domain": "  ACMECORP310.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-07-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00311",
+    "company_name": "Enterprise Corp 311 LLC",
+    "domain": " acmecorp311.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-12-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00312",
+    "company_name": "Enterprise Corp 312 LLC",
+    "domain": " acmecorp312.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-06-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00313",
+    "company_name": "Enterprise Corp 313 LLC",
+    "domain": " acmecorp313.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-01-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00314",
+    "company_name": "Enterprise Corp 314 LLC",
+    "domain": " acmecorp314.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-11-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00315",
+    "company_name": "Enterprise Corp 315 LLC",
+    "domain": "ACMECORP315.COM",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-06-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00316",
+    "company_name": "Enterprise Corp 316 LLC",
+    "domain": " acmecorp316.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-02-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00317",
+    "company_name": "Enterprise Corp 317 LLC",
+    "domain": " acmecorp317.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-08-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00318",
+    "company_name": "Enterprise Corp 318 LLC",
+    "domain": " acmecorp318.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-06-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00319",
+    "company_name": "Enterprise Corp 319 LLC",
+    "domain": " acmecorp319.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-08-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00320",
+    "company_name": "Enterprise Corp 320 LLC",
+    "domain": "  ACMECORP320.COM  ",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-10-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00321",
+    "company_name": "Enterprise Corp 321 LLC",
+    "domain": " acmecorp321.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-02-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00322",
+    "company_name": "Enterprise Corp 322 LLC",
+    "domain": " acmecorp322.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-05-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00323",
+    "company_name": "Enterprise Corp 323 LLC",
+    "domain": " acmecorp323.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-10-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00324",
+    "company_name": "Enterprise Corp 324 LLC",
+    "domain": " acmecorp324.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-02-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00325",
+    "company_name": "Enterprise Corp 325 LLC",
+    "domain": " acmecorp325.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-10-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00326",
+    "company_name": "Enterprise Corp 326 LLC",
+    "domain": " acmecorp326.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-12-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00327",
+    "company_name": "Enterprise Corp 327 LLC",
+    "domain": " acmecorp327.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-12-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00328",
+    "company_name": "Enterprise Corp 328 LLC",
+    "domain": " acmecorp328.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-03-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00329",
+    "company_name": "Enterprise Corp 329 LLC",
+    "domain": " acmecorp329.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-03-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00330",
+    "company_name": "Enterprise Corp 330 LLC",
+    "domain": "  ACMECORP330.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-06-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00331",
+    "company_name": "Enterprise Corp 331 LLC",
+    "domain": " acmecorp331.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-07-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00332",
+    "company_name": "Enterprise Corp 332 LLC",
+    "domain": " acmecorp332.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-05-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00333",
+    "company_name": "Enterprise Corp 333 LLC",
+    "domain": " acmecorp333.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-06-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00334",
+    "company_name": "Enterprise Corp 334 LLC",
+    "domain": " acmecorp334.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-11-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00335",
+    "company_name": "Enterprise Corp 335 LLC",
+    "domain": " acmecorp335.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-03-31 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00336",
+    "company_name": "Enterprise Corp 336 LLC",
+    "domain": " acmecorp336.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-09-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00337",
+    "company_name": "Enterprise Corp 337 LLC",
+    "domain": " acmecorp337.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-06-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00338",
+    "company_name": "Enterprise Corp 338 LLC",
+    "domain": " acmecorp338.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-06-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00339",
+    "company_name": "Enterprise Corp 339 LLC",
+    "domain": " acmecorp339.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-09-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00340",
+    "company_name": "Enterprise Corp 340 LLC",
+    "domain": "  ACMECORP340.COM  ",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-07-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00341",
+    "company_name": "Enterprise Corp 341 LLC",
+    "domain": " acmecorp341.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-12-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00342",
+    "company_name": "Enterprise Corp 342 LLC",
+    "domain": " acmecorp342.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-06-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00343",
+    "company_name": "Enterprise Corp 343 LLC",
+    "domain": " acmecorp343.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-01-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00344",
+    "company_name": "Enterprise Corp 344 LLC",
+    "domain": " acmecorp344.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-11-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00345",
+    "company_name": "Enterprise Corp 345 LLC",
+    "domain": "ACMECORP345.COM",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-01-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00346",
+    "company_name": "Enterprise Corp 346 LLC",
+    "domain": " acmecorp346.com",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-12-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00347",
+    "company_name": "Enterprise Corp 347 LLC",
+    "domain": " acmecorp347.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-12-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00348",
+    "company_name": "Enterprise Corp 348 LLC",
+    "domain": " acmecorp348.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-09-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00349",
+    "company_name": "Enterprise Corp 349 LLC",
+    "domain": " acmecorp349.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-09-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00350",
+    "company_name": "Enterprise Corp 350 LLC",
+    "domain": "  ACMECORP350.COM  ",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-12-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00351",
+    "company_name": "Enterprise Corp 351 LLC",
+    "domain": " acmecorp351.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-07-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00352",
+    "company_name": "Enterprise Corp 352 LLC",
+    "domain": " acmecorp352.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-04-08 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00353",
+    "company_name": "Enterprise Corp 353 LLC",
+    "domain": " acmecorp353.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-02-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00354",
+    "company_name": "Enterprise Corp 354 LLC",
+    "domain": " acmecorp354.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-05-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00355",
+    "company_name": "Enterprise Corp 355 LLC",
+    "domain": " acmecorp355.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-06-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00356",
+    "company_name": "Enterprise Corp 356 LLC",
+    "domain": " acmecorp356.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-01-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00357",
+    "company_name": "Enterprise Corp 357 LLC",
+    "domain": " acmecorp357.com",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-06-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00358",
+    "company_name": "Enterprise Corp 358 LLC",
+    "domain": " acmecorp358.com",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-03-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00359",
+    "company_name": "Enterprise Corp 359 LLC",
+    "domain": " acmecorp359.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-01-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00360",
+    "company_name": "Enterprise Corp 360 LLC",
+    "domain": "  ACMECORP360.COM  ",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-04-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00361",
+    "company_name": "Enterprise Corp 361 LLC",
+    "domain": " acmecorp361.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-06-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00362",
+    "company_name": "Enterprise Corp 362 LLC",
+    "domain": " acmecorp362.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-11-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00363",
+    "company_name": "Enterprise Corp 363 LLC",
+    "domain": " acmecorp363.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-10-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00364",
+    "company_name": "Enterprise Corp 364 LLC",
+    "domain": " acmecorp364.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-09-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00365",
+    "company_name": "Enterprise Corp 365 LLC",
+    "domain": " acmecorp365.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-08-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00366",
+    "company_name": "Enterprise Corp 366 LLC",
+    "domain": " acmecorp366.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-01-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00367",
+    "company_name": "Enterprise Corp 367 LLC",
+    "domain": " acmecorp367.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-03-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00368",
+    "company_name": "Enterprise Corp 368 LLC",
+    "domain": " acmecorp368.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-06-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00369",
+    "company_name": "Enterprise Corp 369 LLC",
+    "domain": " acmecorp369.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-08-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00370",
+    "company_name": "Enterprise Corp 370 LLC",
+    "domain": "  ACMECORP370.COM  ",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-09-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00371",
+    "company_name": "Enterprise Corp 371 LLC",
+    "domain": " acmecorp371.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-03-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00372",
+    "company_name": "Enterprise Corp 372 LLC",
+    "domain": " acmecorp372.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-06-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00373",
+    "company_name": "Enterprise Corp 373 LLC",
+    "domain": " acmecorp373.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-11-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00374",
+    "company_name": "Enterprise Corp 374 LLC",
+    "domain": " acmecorp374.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-10-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00375",
+    "company_name": "Enterprise Corp 375 LLC",
+    "domain": "ACMECORP375.COM",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-08-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00376",
+    "company_name": "Enterprise Corp 376 LLC",
+    "domain": " acmecorp376.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-10-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00377",
+    "company_name": "Enterprise Corp 377 LLC",
+    "domain": " acmecorp377.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-08-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00378",
+    "company_name": "Enterprise Corp 378 LLC",
+    "domain": " acmecorp378.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-11-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00379",
+    "company_name": "Enterprise Corp 379 LLC",
+    "domain": " acmecorp379.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-08-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00380",
+    "company_name": "Enterprise Corp 380 LLC",
+    "domain": "  ACMECORP380.COM  ",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-07-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00381",
+    "company_name": "Enterprise Corp 381 LLC",
+    "domain": " acmecorp381.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-03-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00382",
+    "company_name": "Enterprise Corp 382 LLC",
+    "domain": " acmecorp382.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-05-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00383",
+    "company_name": "Enterprise Corp 383 LLC",
+    "domain": " acmecorp383.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-04-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00384",
+    "company_name": "Enterprise Corp 384 LLC",
+    "domain": " acmecorp384.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-04-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00385",
+    "company_name": "Enterprise Corp 385 LLC",
+    "domain": " acmecorp385.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-04-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00386",
+    "company_name": "Enterprise Corp 386 LLC",
+    "domain": " acmecorp386.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-02-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00387",
+    "company_name": "Enterprise Corp 387 LLC",
+    "domain": " acmecorp387.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-07-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00388",
+    "company_name": "Enterprise Corp 388 LLC",
+    "domain": " acmecorp388.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-05-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00389",
+    "company_name": "Enterprise Corp 389 LLC",
+    "domain": " acmecorp389.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-10-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00390",
+    "company_name": "Enterprise Corp 390 LLC",
+    "domain": "  ACMECORP390.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-04-23 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00391",
+    "company_name": "Enterprise Corp 391 LLC",
+    "domain": " acmecorp391.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-12-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00392",
+    "company_name": "Enterprise Corp 392 LLC",
+    "domain": " acmecorp392.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-02-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00393",
+    "company_name": "Enterprise Corp 393 LLC",
+    "domain": " acmecorp393.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-01-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00394",
+    "company_name": "Enterprise Corp 394 LLC",
+    "domain": " acmecorp394.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-06-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00395",
+    "company_name": "Enterprise Corp 395 LLC",
+    "domain": " acmecorp395.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-11-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00396",
+    "company_name": "Enterprise Corp 396 LLC",
+    "domain": " acmecorp396.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-09-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00397",
+    "company_name": "Enterprise Corp 397 LLC",
+    "domain": " acmecorp397.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-10-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00398",
+    "company_name": "Enterprise Corp 398 LLC",
+    "domain": " acmecorp398.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-08-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00399",
+    "company_name": "Enterprise Corp 399 LLC",
+    "domain": " acmecorp399.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-09-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00400",
+    "company_name": "Enterprise Corp 400 LLC",
+    "domain": "  ACMECORP400.COM  ",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-08-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00401",
+    "company_name": "Enterprise Corp 401 LLC",
+    "domain": " acmecorp401.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-07-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00402",
+    "company_name": "Enterprise Corp 402 LLC",
+    "domain": " acmecorp402.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-04-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00403",
+    "company_name": "Enterprise Corp 403 LLC",
+    "domain": " acmecorp403.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-10-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00404",
+    "company_name": "Enterprise Corp 404 LLC",
+    "domain": " acmecorp404.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-08-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00405",
+    "company_name": "Enterprise Corp 405 LLC",
+    "domain": "ACMECORP405.COM",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-04-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00406",
+    "company_name": "Enterprise Corp 406 LLC",
+    "domain": " acmecorp406.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-02-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00407",
+    "company_name": "Enterprise Corp 407 LLC",
+    "domain": " acmecorp407.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-07-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00408",
+    "company_name": "Enterprise Corp 408 LLC",
+    "domain": " acmecorp408.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-01-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00409",
+    "company_name": "Enterprise Corp 409 LLC",
+    "domain": " acmecorp409.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-12-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00410",
+    "company_name": "Enterprise Corp 410 LLC",
+    "domain": "  ACMECORP410.COM  ",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-01-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00411",
+    "company_name": "Enterprise Corp 411 LLC",
+    "domain": " acmecorp411.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-01-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00412",
+    "company_name": "Enterprise Corp 412 LLC",
+    "domain": " acmecorp412.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-07-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00413",
+    "company_name": "Enterprise Corp 413 LLC",
+    "domain": " acmecorp413.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-03-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00414",
+    "company_name": "Enterprise Corp 414 LLC",
+    "domain": " acmecorp414.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-06-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00415",
+    "company_name": "Enterprise Corp 415 LLC",
+    "domain": " acmecorp415.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-07-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00416",
+    "company_name": "Enterprise Corp 416 LLC",
+    "domain": " acmecorp416.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-08-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00417",
+    "company_name": "Enterprise Corp 417 LLC",
+    "domain": " acmecorp417.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-09-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00418",
+    "company_name": "Enterprise Corp 418 LLC",
+    "domain": " acmecorp418.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-11-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00419",
+    "company_name": "Enterprise Corp 419 LLC",
+    "domain": " acmecorp419.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-11-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00420",
+    "company_name": "Enterprise Corp 420 LLC",
+    "domain": "  ACMECORP420.COM  ",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-04-27 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00421",
+    "company_name": "Enterprise Corp 421 LLC",
+    "domain": " acmecorp421.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-06-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00422",
+    "company_name": "Enterprise Corp 422 LLC",
+    "domain": " acmecorp422.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-07-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00423",
+    "company_name": "Enterprise Corp 423 LLC",
+    "domain": " acmecorp423.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2023-05-12 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00424",
+    "company_name": "Enterprise Corp 424 LLC",
+    "domain": " acmecorp424.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-09-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00425",
+    "company_name": "Enterprise Corp 425 LLC",
+    "domain": " acmecorp425.com",
+    "industry": "DevTools",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-06-21 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00426",
+    "company_name": "Enterprise Corp 426 LLC",
+    "domain": " acmecorp426.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-12-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00427",
+    "company_name": "Enterprise Corp 427 LLC",
+    "domain": " acmecorp427.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-04-22 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00428",
+    "company_name": "Enterprise Corp 428 LLC",
+    "domain": " acmecorp428.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-02-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00429",
+    "company_name": "Enterprise Corp 429 LLC",
+    "domain": " acmecorp429.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-07-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00430",
+    "company_name": "Enterprise Corp 430 LLC",
+    "domain": "  ACMECORP430.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-06-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00431",
+    "company_name": "Enterprise Corp 431 LLC",
+    "domain": " acmecorp431.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2026-07-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00432",
+    "company_name": "Enterprise Corp 432 LLC",
+    "domain": " acmecorp432.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-04-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00433",
+    "company_name": "Enterprise Corp 433 LLC",
+    "domain": " acmecorp433.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-06-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00434",
+    "company_name": "Enterprise Corp 434 LLC",
+    "domain": " acmecorp434.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-01-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00435",
+    "company_name": "Enterprise Corp 435 LLC",
+    "domain": "ACMECORP435.COM",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-08-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00436",
+    "company_name": "Enterprise Corp 436 LLC",
+    "domain": " acmecorp436.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-10-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00437",
+    "company_name": "Enterprise Corp 437 LLC",
+    "domain": " acmecorp437.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-09-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00438",
+    "company_name": "Enterprise Corp 438 LLC",
+    "domain": " acmecorp438.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-08-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00439",
+    "company_name": "Enterprise Corp 439 LLC",
+    "domain": " acmecorp439.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-11-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00440",
+    "company_name": "Enterprise Corp 440 LLC",
+    "domain": "  ACMECORP440.COM  ",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-04-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00441",
+    "company_name": "Enterprise Corp 441 LLC",
+    "domain": " acmecorp441.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-12-16 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00442",
+    "company_name": "Enterprise Corp 442 LLC",
+    "domain": " acmecorp442.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-10-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00443",
+    "company_name": "Enterprise Corp 443 LLC",
+    "domain": " acmecorp443.com",
+    "industry": "MarTech",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-07-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00444",
+    "company_name": "Enterprise Corp 444 LLC",
+    "domain": " acmecorp444.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-07-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00445",
+    "company_name": "Enterprise Corp 445 LLC",
+    "domain": " acmecorp445.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-08-06 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00446",
+    "company_name": "Enterprise Corp 446 LLC",
+    "domain": " acmecorp446.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-11-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00447",
+    "company_name": "Enterprise Corp 447 LLC",
+    "domain": " acmecorp447.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-08-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00448",
+    "company_name": "Enterprise Corp 448 LLC",
+    "domain": " acmecorp448.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-08-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00449",
+    "company_name": "Enterprise Corp 449 LLC",
+    "domain": " acmecorp449.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-06-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00450",
+    "company_name": "Enterprise Corp 450 LLC",
+    "domain": "  ACMECORP450.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-12-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00451",
+    "company_name": "Enterprise Corp 451 LLC",
+    "domain": " acmecorp451.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2023-09-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00452",
+    "company_name": "Enterprise Corp 452 LLC",
+    "domain": " acmecorp452.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-06-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00453",
+    "company_name": "Enterprise Corp 453 LLC",
+    "domain": " acmecorp453.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-06-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00454",
+    "company_name": "Enterprise Corp 454 LLC",
+    "domain": " acmecorp454.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-07-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00455",
+    "company_name": "Enterprise Corp 455 LLC",
+    "domain": " acmecorp455.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-05-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00456",
+    "company_name": "Enterprise Corp 456 LLC",
+    "domain": " acmecorp456.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2026-05-18 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00457",
+    "company_name": "Enterprise Corp 457 LLC",
+    "domain": " acmecorp457.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-08-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00458",
+    "company_name": "Enterprise Corp 458 LLC",
+    "domain": " acmecorp458.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-10-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00459",
+    "company_name": "Enterprise Corp 459 LLC",
+    "domain": " acmecorp459.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-04-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00460",
+    "company_name": "Enterprise Corp 460 LLC",
+    "domain": "  ACMECORP460.COM  ",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-07-14 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00461",
+    "company_name": "Enterprise Corp 461 LLC",
+    "domain": " acmecorp461.com",
+    "industry": "Fintech",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-05-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00462",
+    "company_name": "Enterprise Corp 462 LLC",
+    "domain": " acmecorp462.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-04-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00463",
+    "company_name": "Enterprise Corp 463 LLC",
+    "domain": " acmecorp463.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-07-17 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00464",
+    "company_name": "Enterprise Corp 464 LLC",
+    "domain": " acmecorp464.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-01-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00465",
+    "company_name": "Enterprise Corp 465 LLC",
+    "domain": "ACMECORP465.COM",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-12-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00466",
+    "company_name": "Enterprise Corp 466 LLC",
+    "domain": " acmecorp466.com",
+    "industry": "DevTools",
+    "employee_count_tier": "51-200",
+    "created_at": "2023-05-03 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00467",
+    "company_name": "Enterprise Corp 467 LLC",
+    "domain": " acmecorp467.com",
+    "industry": "MarTech",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-03-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00468",
+    "company_name": "Enterprise Corp 468 LLC",
+    "domain": " acmecorp468.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-03-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00469",
+    "company_name": "Enterprise Corp 469 LLC",
+    "domain": " acmecorp469.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-09-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00470",
+    "company_name": "Enterprise Corp 470 LLC",
+    "domain": "  ACMECORP470.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-09-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00471",
+    "company_name": "Enterprise Corp 471 LLC",
+    "domain": " acmecorp471.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-09-13 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00472",
+    "company_name": "Enterprise Corp 472 LLC",
+    "domain": " acmecorp472.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-01-10 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00473",
+    "company_name": "Enterprise Corp 473 LLC",
+    "domain": " acmecorp473.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1000+",
+    "created_at": "2025-02-11 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00474",
+    "company_name": "Enterprise Corp 474 LLC",
+    "domain": " acmecorp474.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "201-1000",
+    "created_at": "2025-03-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00475",
+    "company_name": "Enterprise Corp 475 LLC",
+    "domain": " acmecorp475.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-01-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00476",
+    "company_name": "Enterprise Corp 476 LLC",
+    "domain": " acmecorp476.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-04-02 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00477",
+    "company_name": "Enterprise Corp 477 LLC",
+    "domain": " acmecorp477.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-08-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00478",
+    "company_name": "Enterprise Corp 478 LLC",
+    "domain": " acmecorp478.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-10-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00479",
+    "company_name": "Enterprise Corp 479 LLC",
+    "domain": " acmecorp479.com",
+    "industry": "Fintech",
+    "employee_count_tier": "51-200",
+    "created_at": "2024-07-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00480",
+    "company_name": "Enterprise Corp 480 LLC",
+    "domain": "  ACMECORP480.COM  ",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-09-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00481",
+    "company_name": "Enterprise Corp 481 LLC",
+    "domain": " acmecorp481.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-06-25 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00482",
+    "company_name": "Enterprise Corp 482 LLC",
+    "domain": " acmecorp482.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-04-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00483",
+    "company_name": "Enterprise Corp 483 LLC",
+    "domain": " acmecorp483.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-10-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00484",
+    "company_name": "Enterprise Corp 484 LLC",
+    "domain": " acmecorp484.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-03-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00485",
+    "company_name": "Enterprise Corp 485 LLC",
+    "domain": " acmecorp485.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-03-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00486",
+    "company_name": "Enterprise Corp 486 LLC",
+    "domain": " acmecorp486.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "1-10",
+    "created_at": "2026-05-26 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00487",
+    "company_name": "Enterprise Corp 487 LLC",
+    "domain": " acmecorp487.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1000+",
+    "created_at": "2026-03-04 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00488",
+    "company_name": "Enterprise Corp 488 LLC",
+    "domain": " acmecorp488.com",
+    "industry": "MarTech",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-05-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00489",
+    "company_name": "Enterprise Corp 489 LLC",
+    "domain": " acmecorp489.com",
+    "industry": "Fintech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2024-10-09 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00490",
+    "company_name": "Enterprise Corp 490 LLC",
+    "domain": "  ACMECORP490.COM  ",
+    "industry": "DevTools",
+    "employee_count_tier": "1-10",
+    "created_at": "2024-11-05 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00491",
+    "company_name": "Enterprise Corp 491 LLC",
+    "domain": " acmecorp491.com",
+    "industry": "MarTech",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-07-15 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00492",
+    "company_name": "Enterprise Corp 492 LLC",
+    "domain": " acmecorp492.com",
+    "industry": "E-Commerce",
+    "employee_count_tier": "1-10",
+    "created_at": "2025-02-20 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00493",
+    "company_name": "Enterprise Corp 493 LLC",
+    "domain": " acmecorp493.com",
+    "industry": "Fintech",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-07-30 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00494",
+    "company_name": "Enterprise Corp 494 LLC",
+    "domain": " acmecorp494.com",
+    "industry": "Cybersecurity",
+    "employee_count_tier": "1000+",
+    "created_at": "2024-09-29 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00495",
+    "company_name": "Enterprise Corp 495 LLC",
+    "domain": "ACMECORP495.COM",
+    "industry": "Healthcare",
+    "employee_count_tier": "1000+",
+    "created_at": "2023-04-28 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00496",
+    "company_name": "Enterprise Corp 496 LLC",
+    "domain": " acmecorp496.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2025-05-07 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00497",
+    "company_name": "Enterprise Corp 497 LLC",
+    "domain": " acmecorp497.com",
+    "industry": "Healthcare",
+    "employee_count_tier": "11-50",
+    "created_at": "2026-07-01 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00498",
+    "company_name": "Enterprise Corp 498 LLC",
+    "domain": " acmecorp498.com",
+    "industry": "DevTools",
+    "employee_count_tier": "201-1000",
+    "created_at": "2023-10-19 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00499",
+    "company_name": "Enterprise Corp 499 LLC",
+    "domain": " acmecorp499.com",
+    "industry": "DevTools",
+    "employee_count_tier": "11-50",
+    "created_at": "2024-03-24 00:00:00"
+  },
+  {
+    "company_id": "hub_comp_00500",
+    "company_name": "Enterprise Corp 500 LLC",
+    "domain": "  ACMECORP500.COM  ",
+    "industry": "Healthcare",
+    "employee_count_tier": "51-200",
+    "created_at": "2025-07-23 00:00:00"
+  }
+]
